@@ -1,0 +1,183 @@
+{
+  "categories": {
+    "all": {
+      "label": "Toutes les entités",
+      "color": "#64748b"
+    },
+    "project": {
+      "label": "Projet central",
+      "color": "#111827"
+    },
+    "porteurs": {
+      "label": "Porteurs et partenaires",
+      "color": "#0f766e"
+    },
+    "opposants": {
+      "label": "Opposants et critiques",
+      "color": "#dc2626"
+    },
+    "context": {
+      "label": "Institutions et acteurs cités",
+      "color": "#2563eb"
+    },
+    "griefs": {
+      "label": "Points de vigilance",
+      "color": "#f97316"
+    },
+    "sources": {
+      "label": "Médias et sources",
+      "color": "#64748b"
+    }
+  },
+  "stances": {
+    "all": {
+      "label": "Toutes les positions",
+      "color": "#64748b"
+    },
+    "opposed": {
+      "label": "Opposé ou critique",
+      "color": "#ef4444"
+    },
+    "favorable": {
+      "label": "Favorable ou soutien",
+      "color": "#22c55e"
+    },
+    "neutral": {
+      "label": "Prudent, institutionnel ou non classé",
+      "color": "#f59e0b"
+    }
+  },
+  "certainty_levels": {
+    "high": {
+      "label": "Haute"
+    },
+    "medium": {
+      "label": "Moyenne"
+    },
+    "low": {
+      "label": "Faible"
+    }
+  },
+  "relation_types": {
+    "portage_du_projet": {
+      "label": "Portage du projet",
+      "directed": true
+    },
+    "rattachement": {
+      "label": "Rattachement",
+      "directed": true
+    },
+    "financement": {
+      "label": "Financement",
+      "directed": true
+    },
+    "relation_institutionnelle": {
+      "label": "Relation institutionnelle",
+      "directed": true
+    },
+    "opposition": {
+      "label": "Opposition",
+      "directed": true
+    },
+    "critique": {
+      "label": "Critique",
+      "directed": true
+    },
+    "signataire": {
+      "label": "Signataire",
+      "directed": true
+    },
+    "representation": {
+      "label": "Représentation",
+      "directed": true
+    },
+    "mobilisation_commune": {
+      "label": "Mobilisation commune",
+      "directed": true
+    },
+    "position_ambigu": {
+      "label": "Position ambiguë",
+      "directed": true
+    },
+    "soutien": {
+      "label": "Soutien",
+      "directed": true
+    },
+    "source_documentaire": {
+      "label": "Source documentaire",
+      "directed": true
+    },
+    "interpellation_publique": {
+      "label": "Interpellation publique",
+      "directed": true
+    },
+    "fonction_citee": {
+      "label": "Fonction citée",
+      "directed": true
+    },
+    "avis_defavorable": {
+      "label": "Avis défavorable",
+      "directed": true
+    },
+    "declaration_d_utilite_publique": {
+      "label": "Déclaration d’utilité publique",
+      "directed": true
+    },
+    "autorisation_administrative": {
+      "label": "Autorisation administrative",
+      "directed": true
+    },
+    "soutien_juridique": {
+      "label": "Soutien juridique",
+      "directed": true
+    },
+    "contestation_judiciaire": {
+      "label": "Contestation judiciaire",
+      "directed": true
+    },
+    "recours_contentieux": {
+      "label": "Recours contentieux",
+      "directed": true
+    },
+    "inquietude": {
+      "label": "Inquiétude",
+      "directed": true
+    },
+    "demande_de_moratoire": {
+      "label": "Demande de moratoire",
+      "directed": true
+    },
+    "interpellation": {
+      "label": "Interpellation",
+      "directed": true
+    },
+    "position_institutionnelle": {
+      "label": "Position institutionnelle",
+      "directed": true
+    },
+    "expertise_scientifique": {
+      "label": "Expertise scientifique",
+      "directed": true
+    },
+    "suivi_environnemental": {
+      "label": "Suivi environnemental",
+      "directed": true
+    },
+    "presidence": {
+      "label": "Présidence",
+      "directed": true
+    },
+    "supervision_environnementale": {
+      "label": "Supervision environnementale",
+      "directed": true
+    },
+    "mission": {
+      "label": "Mission",
+      "directed": true
+    },
+    "expertise_technique": {
+      "label": "Expertise technique",
+      "directed": true
+    }
+  }
+}

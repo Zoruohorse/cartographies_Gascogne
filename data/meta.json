@@ -1,0 +1,61 @@
+{
+  "id": "project_gascogne",
+  "title": "Cartographie interactive — Golfe de Gascogne",
+  "subtitle": "Acteurs, institutions, oppositions, expertises, médias et points de vigilance autour de l’interconnexion France–Espagne.",
+  "last_updated": "2026-10-06",
+  "data_notice": "Relations et justifications directement fournies par l’utilisateur. Les URL restent à qualifier.",
+  "griefs": [
+    {
+      "title": "Question du nématode du pin",
+      "text": "Point de vigilance relié aux acteurs et institutions dans le réseau détaillé."
+    },
+    {
+      "title": "Développement énergétique au détriment du vivant",
+      "text": "Point de vigilance relié aux acteurs et institutions dans le réseau détaillé."
+    },
+    {
+      "title": "Sécurité maritime",
+      "text": "Point de vigilance relié aux acteurs et institutions dans le réseau détaillé."
+    },
+    {
+      "title": "Impacts sur les mammifères marins",
+      "text": "Point de vigilance relié aux acteurs et institutions dans le réseau détaillé."
+    },
+    {
+      "title": "Respect du droit environnemental",
+      "text": "Point de vigilance relié aux acteurs et institutions dans le réseau détaillé."
+    },
+    {
+      "title": "Concertation et gouvernance",
+      "text": "Point de vigilance relié aux acteurs et institutions dans le réseau détaillé."
+    },
+    {
+      "title": "Protection de la biodiversité marine",
+      "text": "Point de vigilance relié aux acteurs et institutions dans le réseau détaillé."
+    },
+    {
+      "title": "Champs électromagnétiques",
+      "text": "Point de vigilance relié aux acteurs et institutions dans le réseau détaillé."
+    }
+  ],
+  "vigilance": [
+    "Chaque relation est associée à une justification fournie par l’utilisateur.",
+    "Les acteurs seulement cités ne sont pas automatiquement classés favorables ou opposés.",
+    "Les relations de source documentaire sont distinguées des positions politiques ou institutionnelles.",
+    "Les entités homonymes ou proches restent séparées lorsqu’elles sont distinctes dans le corpus.",
+    "Les URL exactes des sources restent à qualifier dans data/sources.json."
+  ],
+  "source_descriptions": [
+    "Energies de la Mer : source documentaire citée dans le corpus.",
+    "France 3 Nouvelle-Aquitaine : source documentaire citée dans le corpus.",
+    "Franceinfo : source documentaire citée dans le corpus.",
+    "ICI Gascogne : source documentaire citée dans le corpus.",
+    "La Relève et la Peste : source documentaire citée dans le corpus.",
+    "La République des Pyrénées : source documentaire citée dans le corpus.",
+    "L’Info Durable : source documentaire citée dans le corpus.",
+    "Mer et Marine : source documentaire citée dans le corpus.",
+    "Objectif Aquitaine / La Tribune : source documentaire citée dans le corpus.",
+    "Sud Ouest : source documentaire citée dans le corpus.",
+    "Vert : source documentaire citée dans le corpus."
+  ]
+}

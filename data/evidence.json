@@ -1,0 +1,698 @@
+[
+  {
+    "id": "evidence_relation_0001",
+    "type": "summary",
+    "text": "RTE est le porteur français du projet.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0002",
+    "type": "summary",
+    "text": "Red Eléctrica est le co-porteur espagnol.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0003",
+    "type": "summary",
+    "text": "Inelfe assure la maîtrise d’ouvrage transfrontalière.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0004",
+    "type": "summary",
+    "text": "Inelfe est une coentreprise RTE / Red Eléctrica.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0005",
+    "type": "summary",
+    "text": "Inelfe est une coentreprise RTE / Red Eléctrica.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0006",
+    "type": "summary",
+    "text": "Projet considéré comme d’intérêt commun européen.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0007",
+    "type": "summary",
+    "text": "Soutien financier de 1,6 Md€.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0008",
+    "type": "summary",
+    "text": "Prestataire technique pour la pose des câbles sous-marins.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0009",
+    "type": "summary",
+    "text": "Prestataire technique pour la pose des câbles sous-marins.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0010",
+    "type": "summary",
+    "text": "Fourniture de navires de surveillance.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0011",
+    "type": "summary",
+    "text": "Principal collectif opposé au projet.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0012",
+    "type": "summary",
+    "text": "Contestation environnementale.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0013",
+    "type": "summary",
+    "text": "Co-signataire de plainte liée au nématode.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0014",
+    "type": "summary",
+    "text": "Critique du projet et de ses impacts potentiels.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0015",
+    "type": "summary",
+    "text": "Critique des conditions maritimes du chantier.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0016",
+    "type": "summary",
+    "text": "Présidente de StopTHT40.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0017",
+    "type": "summary",
+    "text": "Présidente de Landes Atlantique Environnement.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0018",
+    "type": "summary",
+    "text": "Opposée au projet et à son tracé actuel.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0019",
+    "type": "summary",
+    "text": "Présidente de Sea Shepherd France.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0020",
+    "type": "summary",
+    "text": "Critique la logique de sacrifice du vivant.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0021",
+    "type": "summary",
+    "text": "Fondateur de Sea Shepherd.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0022",
+    "type": "summary",
+    "text": "Participation à une conférence organisée par StopTHT40.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0023",
+    "type": "summary",
+    "text": "Cité aux côtés de Marie Darzacq lors d’une conférence d’opposition.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0024",
+    "type": "summary",
+    "text": "Représentants au CSMM.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0025",
+    "type": "summary",
+    "text": "Demande le retrait des navires de Van Laar.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0026",
+    "type": "summary",
+    "text": "Dénonce une flotte totalement en dehors des règles de sécurité maritime.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0027",
+    "type": "summary",
+    "text": "Organisations associées à la démarche CGT.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0028",
+    "type": "summary",
+    "text": "Dénonce les navires utilisés sur le chantier.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0029",
+    "type": "summary",
+    "text": "Critiques sur la sécurité maritime.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0030",
+    "type": "summary",
+    "text": "Saisi des questions de sécurité maritime.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0031",
+    "type": "summary",
+    "text": "Sollicité par la CGT dans le cadre du dossier maritime.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0032",
+    "type": "summary",
+    "text": "Favorable à la poursuite du chantier sous contrôle environnemental.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0033",
+    "type": "summary",
+    "text": "Suivi du chantier et contrôles complémentaires.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0034",
+    "type": "summary",
+    "text": "Demande des contrôles complémentaires sur les mammifères marins.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0035",
+    "type": "summary",
+    "text": "Favorable à l’électrification et à la réduction de la dépendance aux énergies fossiles.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0036",
+    "type": "summary",
+    "text": "Délégué régional RTE.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0037",
+    "type": "summary",
+    "text": "Directeur de projet RTE.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0038",
+    "type": "summary",
+    "text": "Directrice du programme interconnexions RTE.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0039",
+    "type": "summary",
+    "text": "Présidente du directoire de RTE.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0040",
+    "type": "summary",
+    "text": "Président du directoire de RTE.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0041",
+    "type": "summary",
+    "text": "Défend les bénéfices énergétiques de l’interconnexion.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0042",
+    "type": "summary",
+    "text": "Directeur planification Red Eléctrica.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0043",
+    "type": "summary",
+    "text": "Directeur de projets Red Eléctrica.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0044",
+    "type": "summary",
+    "text": "Critique les impacts environnementaux.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0045",
+    "type": "summary",
+    "text": "Critique les procédures environnementales.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0046",
+    "type": "summary",
+    "text": "Critique la concertation et la gouvernance.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0047",
+    "type": "summary",
+    "text": "Dépôt de plainte et demande de traçabilité.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0048",
+    "type": "summary",
+    "text": "Contestation environnementale.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0049",
+    "type": "summary",
+    "text": "Critique au nom de la protection du vivant.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0050",
+    "type": "summary",
+    "text": "Critique les impacts potentiels sur le vivant marin.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0051",
+    "type": "summary",
+    "text": "Critique du projet comme symbole d’une logique énergétique au détriment du vivant.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0052",
+    "type": "summary",
+    "text": "Information sur la baleine échouée.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0053",
+    "type": "summary",
+    "text": "Couverture du chantier et des échouages.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0054",
+    "type": "summary",
+    "text": "Reportages environnementaux.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0055",
+    "type": "summary",
+    "text": "Source majeure sur le conflit local.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0056",
+    "type": "summary",
+    "text": "Suivi du chantier et enjeux maritimes.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0057",
+    "type": "summary",
+    "text": "Suivi technique du projet.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0058",
+    "type": "summary",
+    "text": "Relais des critiques écologistes.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0059",
+    "type": "summary",
+    "text": "Analyse stratégique des infrastructures.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0060",
+    "type": "summary",
+    "text": "Source secondaire.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0061",
+    "type": "summary",
+    "text": "Analyse des interconnexions européennes.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0062",
+    "type": "summary",
+    "text": "Le post de Stop THT 40 le désigne comme « Mr Chambily (RTE) ».",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0063",
+    "type": "summary",
+    "text": "Le post de Stop THT 40 la désigne comme « Mme Pajot (RTE) ».",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0064",
+    "type": "summary",
+    "text": "Le collectif l’invite à sa table ronde du 28 juin.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0065",
+    "type": "summary",
+    "text": "Le collectif l’invite à sa table ronde du 28 juin.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0066",
+    "type": "summary",
+    "text": "Enquête du 13 juin 2026 sur le conflit local.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0067",
+    "type": "summary",
+    "text": "L’article de Vert le désigne comme « le préfet des Landes ».",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0068",
+    "type": "summary",
+    "text": "Avis défavorable du 22 août 2022 cité dans le rapport.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0069",
+    "type": "summary",
+    "text": "Le projet est présenté comme déclaré d’utilité publique par ce ministère.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0070",
+    "type": "summary",
+    "text": "RTE indique qu’un avis favorable conforme a été émis et que les autorisations ont été signées.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0071",
+    "type": "summary",
+    "text": "L’association est décrite comme soutenant juridiquement le collectif.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0072",
+    "type": "summary",
+    "text": "Le rapport cite un recours contre les travaux à son initiative.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0073",
+    "type": "summary",
+    "text": "Le recours est indiqué comme porté devant le Conseil d’État.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0074",
+    "type": "summary",
+    "text": "Elle est citée comme secrétaire de l’association.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0075",
+    "type": "summary",
+    "text": "Elle questionne l’absence d’étude sur les conséquences potentielles pour la santé.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0076",
+    "type": "summary",
+    "text": "Une lettre ouverte lui a été adressée en 2024 pour demander un moratoire.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0077",
+    "type": "summary",
+    "text": "Les militants comptent sur elle pour accéder à leur demande.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0078",
+    "type": "summary",
+    "text": "Elle indique initialement qu’aucun élément ne permet de relier le décès au chantier.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0079",
+    "type": "summary",
+    "text": "Pélagis évoque une probable infection et précise que la cause primaire demeure indéterminée.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0080",
+    "type": "summary",
+    "text": "Le CSE est dédié aux travaux et aux engagements environnementaux de RTE.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0081",
+    "type": "summary",
+    "text": "La cinquième réunion s’est tenue sous la présidence du préfet des Landes.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0082",
+    "type": "summary",
+    "text": "La DREAL est citée parmi les services de l’État assurant la supervision.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0083",
+    "type": "summary",
+    "text": "La DDTM est citée parmi les services de l’État assurant la supervision.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0084",
+    "type": "summary",
+    "text": "L’OFB est cité parmi les services de l’État assurant la supervision.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0085",
+    "type": "summary",
+    "text": "Le rapport le décrit comme missionné par RTE.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0086",
+    "type": "summary",
+    "text": "Sa surveillance est citée parmi les dispositifs de respect des prescriptions environnementales.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "evidence_relation_0087",
+    "type": "summary",
+    "text": "Il explique l’impossibilité de faire passer des câbles dans le gouf de Capbreton.",
+    "source_id": null,
+    "source_status": "user_provided",
+    "updated_at": "2026-10-06"
+  }
+]

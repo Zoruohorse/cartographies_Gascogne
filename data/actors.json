@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "project_gascogne",
+    "type": "project",
+    "name": "Interconnexion France–Espagne par le Golfe de Gascogne",
+    "short_name": "Interconnexion France–Espagne",
+    "description": "Projet d’interconnexion électrique transfrontalière par le Golfe de Gascogne.",
+    "roles": [
+      {
+        "label": "Projet central"
+      }
+    ],
+    "categories": [
+      "project"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0001",
+    "type": "entity",
+    "name": "RTE",
+    "short_name": "RTE",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Porteur / acteur du projet"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0002",
+    "type": "entity",
+    "name": "Red Eléctrica",
+    "short_name": "Red Eléctrica",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Porteur / acteur du projet"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0003",
+    "type": "entity",
+    "name": "Inelfe",
+    "short_name": "Inelfe",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Porteur / acteur du projet"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0004",
+    "type": "entity",
+    "name": "Union européenne / CINEA",
+    "short_name": "Union européenne / CINEA",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Institution ou acteur cité"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0005",
+    "type": "entity",
+    "name": "Banque européenne d’investissement (BEI)",
+    "short_name": "Banque européenne d’investissement (BEI)",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Institution ou acteur cité"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0006",
+    "type": "entity",
+    "name": "Prysmian PowerLink (PPL)",
+    "short_name": "Prysmian PowerLink (PPL)",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Institution ou acteur cité"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0007",
+    "type": "entity",
+    "name": "NKT",
+    "short_name": "NKT",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Institution ou acteur cité"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0008",
+    "type": "entity",
+    "name": "Van Laar",
+    "short_name": "Van Laar",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Institution ou acteur cité"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0009",
+    "type": "entity",
+    "name": "StopTHT40",
+    "short_name": "StopTHT40",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Opposant / critique"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0010",
+    "type": "entity",
+    "name": "Landes Atlantique Environnement (LAE)",
+    "short_name": "Landes Atlantique Environnement (LAE)",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Opposant / critique"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0011",
+    "type": "entity",
+    "name": "SEPANSO 40",
+    "short_name": "SEPANSO 40",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Opposant / critique"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0012",
+    "type": "issue",
+    "name": "Question du nématode du pin",
+    "short_name": "Question du nématode du pin",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Point de vigilance"
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0013",
+    "type": "entity",
+    "name": "Sea Shepherd France",
+    "short_name": "Sea Shepherd France",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Opposant / critique"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0014",
+    "type": "entity",
+    "name": "CGT",
+    "short_name": "CGT",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Opposant / critique"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0015",
+    "type": "entity",
+    "name": "Marie Darzacq",
+    "short_name": "Marie Darzacq",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Opposant / critique"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0016",
+    "type": "entity",
+    "name": "Lamya Essemlali",
+    "short_name": "Lamya Essemlali",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Opposant / critique"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0017",
+    "type": "issue",
+    "name": "Développement énergétique au détriment du vivant",
+    "short_name": "Développement énergétique au détriment du vivant",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Point de vigilance"
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0018",
+    "type": "entity",
+    "name": "Paul Watson",
+    "short_name": "Paul Watson",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Opposant / critique"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0019",
+    "type": "entity",
+    "name": "Marc Mortelmans",
+    "short_name": "Marc Mortelmans",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Opposant / critique"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0020",
+    "type": "entity",
+    "name": "CGT (représentants au CSMM)",
+    "short_name": "CGT (représentants au CSMM)",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Opposant / critique"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0021",
+    "type": "entity",
+    "name": "Conseil supérieur de la marine marchande (CSMM)",
+    "short_name": "Conseil supérieur de la marine marchande (CSMM)",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Institution ou acteur cité"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0022",
+    "type": "issue",
+    "name": "Sécurité maritime",
+    "short_name": "Sécurité maritime",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Point de vigilance"
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0023",
+    "type": "entity",
+    "name": "FOMM, FSM, FNPD",
+    "short_name": "FOMM, FSM, FNPD",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Opposant / critique"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0024",
+    "type": "entity",
+    "name": "Philippe Tabarot",
+    "short_name": "Philippe Tabarot",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Institution ou acteur cité"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0025",
+    "type": "entity",
+    "name": "Françoise Tahéri",
+    "short_name": "Françoise Tahéri",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Institution ou acteur cité"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0026",
+    "type": "entity",
+    "name": "Préfet des Landes",
+    "short_name": "Préfet des Landes",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Institution ou acteur cité"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0027",
+    "type": "issue",
+    "name": "Impacts sur les mammifères marins",
+    "short_name": "Impacts sur les mammifères marins",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Point de vigilance"
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0028",
+    "type": "entity",
+    "name": "Sébastien Lecornu",
+    "short_name": "Sébastien Lecornu",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Institution ou acteur cité"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0029",
+    "type": "entity",
+    "name": "Jérôme Rieu",
+    "short_name": "Jérôme Rieu",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Porteur / acteur du projet"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0030",
+    "type": "entity",
+    "name": "Emmanuel Gosset",
+    "short_name": "Emmanuel Gosset",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Porteur / acteur du projet"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0031",
+    "type": "entity",
+    "name": "Ludivine Mellier",
+    "short_name": "Ludivine Mellier",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Porteur / acteur du projet"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0032",
+    "type": "entity",
+    "name": "Émilie Piette",
+    "short_name": "Émilie Piette",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Porteur / acteur du projet"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0033",
+    "type": "entity",
+    "name": "Xavier Piechaczyk",
+    "short_name": "Xavier Piechaczyk",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Porteur / acteur du projet"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0034",
+    "type": "entity",
+    "name": "Ramon Granadino Goenechea",
+    "short_name": "Ramon Granadino Goenechea",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Porteur / acteur du projet"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0035",
+    "type": "entity",
+    "name": "Juan Prieto Monterrubio",
+    "short_name": "Juan Prieto Monterrubio",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Porteur / acteur du projet"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0036",
+    "type": "issue",
+    "name": "Respect du droit environnemental",
+    "short_name": "Respect du droit environnemental",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Point de vigilance"
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0037",
+    "type": "issue",
+    "name": "Concertation et gouvernance",
+    "short_name": "Concertation et gouvernance",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Point de vigilance"
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0038",
+    "type": "issue",
+    "name": "Protection de la biodiversité marine",
+    "short_name": "Protection de la biodiversité marine",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Point de vigilance"
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0039",
+    "type": "media",
+    "name": "Franceinfo",
+    "short_name": "Franceinfo",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Média / source"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0040",
+    "type": "media",
+    "name": "ICI Gascogne",
+    "short_name": "ICI Gascogne",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Média / source"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0041",
+    "type": "media",
+    "name": "France 3 Nouvelle-Aquitaine",
+    "short_name": "France 3 Nouvelle-Aquitaine",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Média / source"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0042",
+    "type": "media",
+    "name": "Sud Ouest",
+    "short_name": "Sud Ouest",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Média / source"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0043",
+    "type": "media",
+    "name": "Mer et Marine",
+    "short_name": "Mer et Marine",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Média / source"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0044",
+    "type": "media",
+    "name": "Energies de la Mer",
+    "short_name": "Energies de la Mer",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Média / source"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0045",
+    "type": "media",
+    "name": "La Relève et la Peste",
+    "short_name": "La Relève et la Peste",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Média / source"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0046",
+    "type": "media",
+    "name": "Objectif Aquitaine / La Tribune",
+    "short_name": "Objectif Aquitaine / La Tribune",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Média / source"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0047",
+    "type": "media",
+    "name": "L’Info Durable",
+    "short_name": "L’Info Durable",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Média / source"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0048",
+    "type": "media",
+    "name": "La République des Pyrénées",
+    "short_name": "La République des Pyrénées",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Média / source"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0049",
+    "type": "entity",
+    "name": "Mr Chambily (RTE)",
+    "short_name": "Mr Chambily (RTE)",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Institution ou acteur cité"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0050",
+    "type": "entity",
+    "name": "Mme Pajot (RTE)",
+    "short_name": "Mme Pajot (RTE)",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Institution ou acteur cité"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0051",
+    "type": "media",
+    "name": "Vert",
+    "short_name": "Vert",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Média / source"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0052",
+    "type": "entity",
+    "name": "Gilles Clavreul",
+    "short_name": "Gilles Clavreul",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Institution ou acteur cité"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0053",
+    "type": "entity",
+    "name": "Conseil national de la protection de la nature (CNPN)",
+    "short_name": "Conseil national de la protection de la nature (CNPN)",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Institution ou acteur cité"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0054",
+    "type": "entity",
+    "name": "Ministère de la transition énergétique",
+    "short_name": "Ministère de la transition énergétique",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Institution ou acteur cité"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0055",
+    "type": "entity",
+    "name": "Ministère de la transition écologique",
+    "short_name": "Ministère de la transition écologique",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Institution ou acteur cité"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0056",
+    "type": "entity",
+    "name": "Landes Aquitaine Environnement",
+    "short_name": "Landes Aquitaine Environnement",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Opposant / critique"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0057",
+    "type": "entity",
+    "name": "Conseil d’État",
+    "short_name": "Conseil d’État",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Institution ou acteur cité"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0058",
+    "type": "entity",
+    "name": "Leyla Labescat",
+    "short_name": "Leyla Labescat",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Opposant / critique"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0059",
+    "type": "issue",
+    "name": "Champs électromagnétiques",
+    "short_name": "Champs électromagnétiques",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Point de vigilance"
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0060",
+    "type": "entity",
+    "name": "François Bayrou",
+    "short_name": "François Bayrou",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Institution ou acteur cité"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0061",
+    "type": "entity",
+    "name": "Monique Barbut",
+    "short_name": "Monique Barbut",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Institution ou acteur cité"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0062",
+    "type": "entity",
+    "name": "Mairie de Capbreton",
+    "short_name": "Mairie de Capbreton",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Institution ou acteur cité"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0063",
+    "type": "entity",
+    "name": "Laboratoire Pélagis",
+    "short_name": "Laboratoire Pélagis",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Institution ou acteur cité"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0064",
+    "type": "entity",
+    "name": "Comité de suivi environnemental (CSE)",
+    "short_name": "Comité de suivi environnemental (CSE)",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Institution ou acteur cité"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0065",
+    "type": "entity",
+    "name": "DREAL",
+    "short_name": "DREAL",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Institution ou acteur cité"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0066",
+    "type": "entity",
+    "name": "DDTM",
+    "short_name": "DDTM",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Institution ou acteur cité"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0067",
+    "type": "entity",
+    "name": "OFB",
+    "short_name": "OFB",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Institution ou acteur cité"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0068",
+    "type": "entity",
+    "name": "Écologue missionné par RTE",
+    "short_name": "Écologue missionné par RTE",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Institution ou acteur cité"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "entity_0069",
+    "type": "entity",
+    "name": "Chercheur spécialiste du suivi morphologique du canyon (anonyme)",
+    "short_name": "Chercheur spécialiste du suivi morphologique du canyon (anonyme)",
+    "description": "Entité documentée dans les relations détaillées transmises.",
+    "roles": [
+      {
+        "label": "Institution ou acteur cité"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-06"
+  }
+]
