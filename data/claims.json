@@ -1,0 +1,782 @@
+[
+  {
+    "id": "claim_0001",
+    "subject_id": "actor_0001",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Porteur français du projet ; favorable.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0001"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0002",
+    "subject_id": "actor_0002",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Co-porteur du projet ; favorable.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0002"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0003",
+    "subject_id": "actor_0003",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Maîtrise d’ouvrage transfrontalière.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0003"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0004",
+    "subject_id": "actor_0004",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Soutien institutionnel et financier.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0004"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0005",
+    "subject_id": "actor_0005",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Financeur majeur.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0005"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0006",
+    "subject_id": "actor_0006",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Prestataire technique.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0006"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0007",
+    "subject_id": "actor_0007",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Prestataire technique.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0007"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0008",
+    "subject_id": "actor_0008",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Prestataire contesté.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0008"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0009",
+    "subject_id": "actor_0009",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Opposée au projet et à son tracé actuel ; critique les procédures environnementales et la concertation.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0009"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0010",
+    "subject_id": "actor_0010",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Critique du projet au nom de la protection du vivant.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0010"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0011",
+    "subject_id": "actor_0011",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Soutien aux opposants ; critique environnementale générale.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0011"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0012",
+    "subject_id": "actor_0012",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Présent lors d’événements d’opposition.",
+    "certainty": "low",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0012"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0013",
+    "subject_id": "actor_0013",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Critique la sécurité maritime associée au chantier.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0013"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0014",
+    "subject_id": "actor_0014",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Institutionnelle ; favorable à la poursuite du chantier sous contrôle environnemental.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0014"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0015",
+    "subject_id": "actor_0015",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Position institutionnelle ; suivi du chantier.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0015"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0016",
+    "subject_id": "actor_0016",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Seulement cité.",
+    "certainty": "low",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0016"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0017",
+    "subject_id": "actor_0017",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Favorable à l’électrification et à la réduction de la dépendance aux énergies fossiles.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0017"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0018",
+    "subject_id": "actor_0018",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Contestation environnementale ; dépôt de plainte sur le nématode du pin.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0018"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0019",
+    "subject_id": "actor_0019",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Critique prudente.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0019"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0020",
+    "subject_id": "actor_0020",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Soutien aux opposants locaux ; critique du projet et de ses impacts potentiels.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0020"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0021",
+    "subject_id": "actor_0021",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Critique des conditions maritimes du chantier.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0021"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0022",
+    "subject_id": "actor_0022",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Critiques sur la sécurité maritime.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0022"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0023",
+    "subject_id": "actor_0023",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Pas de position institutionnelle explicite.",
+    "certainty": "low",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0023"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0024",
+    "subject_id": "actor_0024",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Défense du projet et réponse aux critiques.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0024"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0025",
+    "subject_id": "actor_0025",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Portage du projet.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0025"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0026",
+    "subject_id": "actor_0026",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Portage du projet.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0026"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0027",
+    "subject_id": "actor_0027",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Actrice du portage RTE ; citée dans le dossier maritime.",
+    "certainty": "low",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0027"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0028",
+    "subject_id": "actor_0028",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Portage côté Red Eléctrica.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0028"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0029",
+    "subject_id": "actor_0029",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Portage côté Red Eléctrica.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0029"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0030",
+    "subject_id": "actor_0030",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Défend les bénéfices énergétiques de l’interconnexion.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0030"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0031",
+    "subject_id": "actor_0031",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Position sur le projet non établie.",
+    "certainty": "low",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0031"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0032",
+    "subject_id": "actor_0032",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Position sur le projet non établie.",
+    "certainty": "low",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0032"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0033",
+    "subject_id": "actor_0033",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Aucune position explicite ; il n’a pas répondu aux questions de Vert.",
+    "certainty": "low",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0033"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0034",
+    "subject_id": "actor_0034",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Avis défavorable au projet en 2022, au regard des impacts terrestres.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0034"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0035",
+    "subject_id": "actor_0035",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Rôle administratif rapporté.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0035"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0036",
+    "subject_id": "actor_0036",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Rôle administratif rapporté.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0036"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0037",
+    "subject_id": "actor_0037",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Inquiète des effets potentiels sur la santé humaine et de l’absence d’étude signalée.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0037"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0038",
+    "subject_id": "actor_0038",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Saisie d’un recours contre les travaux.",
+    "certainty": "low",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0038"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0039",
+    "subject_id": "actor_0039",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Destinataire d’une lettre ouverte de 2024.",
+    "certainty": "low",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0039"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0040",
+    "subject_id": "actor_0040",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Position sur le projet non établie ; elle est sollicitée par les militants.",
+    "certainty": "low",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0040"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0041",
+    "subject_id": "actor_0041",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Indique initialement qu’aucun élément ne permet de relier le décès de la baleine au chantier.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0041"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0042",
+    "subject_id": "actor_0042",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Expertise scientifique ; aucune attribution causale du décès au chantier.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0042"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0043",
+    "subject_id": "actor_0043",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Suivi institutionnel ; aucune position autonome sur le projet n’est rapportée.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0043"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0044",
+    "subject_id": "actor_0044",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Supervision et contrôle environnementaux.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0044"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0045",
+    "subject_id": "actor_0045",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Supervision et contrôle environnementaux.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0045"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0046",
+    "subject_id": "actor_0046",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Supervision et contrôle environnementaux.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0046"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0047",
+    "subject_id": "actor_0047",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Rôle de suivi environnemental.",
+    "certainty": "low",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0047"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0048",
+    "subject_id": "actor_0048",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Apporte une expertise technique sur l’impossibilité de faire passer les câbles dans le canyon.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0048"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0049",
+    "subject_id": "actor_0049",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "S'associe aux actions de Stop THT 40 par des opérations militantes de nettoyage de plage.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0049"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0050",
+    "subject_id": "actor_0050",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Prépare un dossier juridique pour démontrer que le tracé retenu est une erreur, et dénonce les répercussions du chantier.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0050"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0051",
+    "subject_id": "actor_0051",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "S'unissent formellement, au-delà des étiquettes politiques, pour exiger l'application du principe de précaution et réclamer une expertise sanitaire indépendante.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0051"
+    ],
+    "updated_at": "2026-10-06"
+  },
+  {
+    "id": "claim_0052",
+    "subject_id": "actor_0052",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Saisit l'opportunité d'une pollution marine aux hydrocarbures pour interpeller l'État et exiger l'application des protocoles de sécurité prévus par RTE.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0052"
+    ],
+    "updated_at": "2026-10-06"
+  }
+]
