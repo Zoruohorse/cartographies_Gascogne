@@ -4,7 +4,7 @@
     "type": "project",
     "name": "Interconnexion France–Espagne par le Golfe de Gascogne",
     "short_name": "Interconnexion France–Espagne",
-    "description": "Projet d’interconnexion électrique transfrontalière par le Golfe de Gascogne.",
+    "description": "Double liaison HVDC 2 × 1 000 MW sur environ 400 km, de Cubnezais à Gatika, mise en service visée début 2028; travaux annoncés à 70 % au 29 octobre 2026.",
     "roles": [
       {
         "label": "Projet central"
@@ -13,14 +13,32 @@
     "categories": [
       "project"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_01",
+      "evidence_gas_20261110_03",
+      "evidence_gas_20261110_02",
+      "evidence_gas_20261110_10",
+      "evidence_gas_20261110_23",
+      "evidence_gas_20261110_06",
+      "evidence_gas_20261110_18",
+      "evidence_gas_20261110_13",
+      "evidence_gas_20261110_34",
+      "evidence_gas_20261110_14",
+      "evidence_gas_20261110_19",
+      "evidence_gas_20261110_17",
+      "evidence_gas_20261110_26",
+      "evidence_gas_20261110_22",
+      "evidence_gas_20261110_21",
+      "evidence_gas_20261110_20"
+    ]
   },
   {
     "id": "entity_0001",
     "type": "entity",
     "name": "RTE",
     "short_name": "RTE",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "Gestionnaire français du réseau de transport, copropriétaire à 50 % d'INELFE, responsable de travaux terrestres et maritimes côté français.",
     "roles": [
       {
         "label": "Porteur / acteur du projet"
@@ -29,14 +47,21 @@
     "categories": [
       "porteurs"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_01",
+      "evidence_gas_20261110_25",
+      "evidence_gas_20261110_24",
+      "evidence_gas_20261110_26",
+      "evidence_gas_20261110_22"
+    ]
   },
   {
     "id": "entity_0002",
     "type": "entity",
     "name": "Red Eléctrica",
     "short_name": "Red Eléctrica",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "Gestionnaire espagnol Red Eléctrica, filiale de Redeia et copropriétaire d'INELFE; a annoncé 70 % d'avancement global le 29 octobre 2026.",
     "roles": [
       {
         "label": "Porteur / acteur du projet"
@@ -45,14 +70,18 @@
     "categories": [
       "porteurs"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_01",
+      "evidence_gas_20261110_24"
+    ]
   },
   {
     "id": "entity_0003",
     "type": "entity",
     "name": "Inelfe",
     "short_name": "Inelfe",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "INELFE, coentreprise 50/50 de RTE et Red Eléctrica pour le développement de l'interconnexion.",
     "roles": [
       {
         "label": "Porteur / acteur du projet"
@@ -61,14 +90,17 @@
     "categories": [
       "porteurs"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_01"
+    ]
   },
   {
     "id": "entity_0004",
     "type": "entity",
     "name": "Union européenne / CINEA",
     "short_name": "Union européenne / CINEA",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "Commission européenne et agence CINEA : projet d'intérêt commun soutenu par une subvention CEF de 578 M€; entités institutionnelles regroupées historiquement dans une seule carte.",
     "roles": [
       {
         "label": "Institution ou acteur cité"
@@ -77,14 +109,17 @@
     "categories": [
       "context"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_03"
+    ]
   },
   {
     "id": "entity_0005",
     "type": "entity",
     "name": "Banque européenne d’investissement (BEI)",
     "short_name": "Banque européenne d’investissement (BEI)",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "BEI : 1,6 Md€ de financement annoncé sous forme de prêts aux deux gestionnaires; à distinguer d'une subvention européenne.",
     "roles": [
       {
         "label": "Institution ou acteur cité"
@@ -93,14 +128,17 @@
     "categories": [
       "context"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_02"
+    ]
   },
   {
     "id": "entity_0006",
     "type": "entity",
     "name": "Prysmian PowerLink (PPL)",
     "short_name": "Prysmian PowerLink (PPL)",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "Prysmian PowerLink, fournisseur et poseur de câbles pour l'interconnexion, opérant notamment le navire Monna Lisa.",
     "roles": [
       {
         "label": "Institution ou acteur cité"
@@ -109,14 +147,18 @@
     "categories": [
       "context"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_10",
+      "evidence_gas_20261110_23"
+    ]
   },
   {
     "id": "entity_0007",
     "type": "entity",
     "name": "NKT",
     "short_name": "NKT",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "NKT, fournisseur et installateur de câbles maritimes, dont le navire Victoria a réalisé 65 km en eaux biscaïennes à l'été 2026.",
     "roles": [
       {
         "label": "Institution ou acteur cité"
@@ -125,14 +167,18 @@
     "categories": [
       "context"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_06",
+      "evidence_gas_20261110_23"
+    ]
   },
   {
     "id": "entity_0008",
     "type": "entity",
     "name": "Van Laar",
     "short_name": "Van Laar",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "Van Laar Maritime intervient avec des navires de surveillance par l'intermédiaire de prestataires. Sécurité des navires contestée par la CGT, allégations démenties par l'armateur.",
     "roles": [
       {
         "label": "Institution ou acteur cité"
@@ -141,14 +187,17 @@
     "categories": [
       "context"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_18"
+    ]
   },
   {
     "id": "entity_0009",
     "type": "entity",
     "name": "StopTHT40",
     "short_name": "StopTHT40",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "Collectif Stop THT 40 opposé au tracé terrestre landais actuellement retenu, demandant de réexaminer les alternatives. Sa mobilisation a continué en 2026.",
     "roles": [
       {
         "label": "Opposant / critique"
@@ -157,14 +206,19 @@
     "categories": [
       "opposants"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_13",
+      "evidence_gas_20261110_34",
+      "evidence_gas_20261110_19"
+    ]
   },
   {
     "id": "entity_0010",
     "type": "entity",
     "name": "Landes Atlantique Environnement (LAE)",
     "short_name": "Landes Atlantique Environnement (LAE)",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "Landes Atlantique Environnement a demandé une enquête sur l'origine du nématode du pin; aucune causalité RTE démontrée.",
     "roles": [
       {
         "label": "Opposant / critique"
@@ -173,14 +227,17 @@
     "categories": [
       "opposants"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_14"
+    ]
   },
   {
     "id": "entity_0011",
     "type": "entity",
     "name": "SEPANSO 40",
     "short_name": "SEPANSO 40",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "SEPANSO 40 engagée dans des procédures administratives et critiques environnementales, notamment autour du nématode du pin et de l'interconnexion.",
     "roles": [
       {
         "label": "Opposant / critique"
@@ -189,14 +246,17 @@
     "categories": [
       "opposants"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_14"
+    ]
   },
   {
     "id": "entity_0012",
     "type": "issue",
     "name": "Question du nématode du pin",
     "short_name": "Question du nématode du pin",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "Nématode du pin détecté à Seignosse puis Angresse : question de surveillance phytosanitaire et d'origine contestée; lien avec les travaux non démontré.",
     "roles": [
       {
         "label": "Point de vigilance"
@@ -205,14 +265,17 @@
     "categories": [
       "griefs"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_14"
+    ]
   },
   {
     "id": "entity_0013",
     "type": "entity",
     "name": "Sea Shepherd France",
     "short_name": "Sea Shepherd France",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "Sea Shepherd France : sa présidente Lamya Essemlali est intervenue publiquement en 2025 sur les enjeux écologiques de l'interconnexion; ne pas généraliser toutes les positions de l'ONG.",
     "roles": [
       {
         "label": "Opposant / critique"
@@ -221,14 +284,17 @@
     "categories": [
       "opposants"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_19"
+    ]
   },
   {
     "id": "entity_0014",
     "type": "entity",
     "name": "CGT",
     "short_name": "CGT",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "La CGT a contesté les conditions de sécurité alléguées des navires Van Laar de surveillance du chantier; cela ne démontre pas une opposition au principe de l'interconnexion.",
     "roles": [
       {
         "label": "Opposant / critique"
@@ -237,14 +303,17 @@
     "categories": [
       "opposants"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_18"
+    ]
   },
   {
     "id": "entity_0015",
     "type": "entity",
     "name": "Marie Darzacq",
     "short_name": "Marie Darzacq",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "Marie Darzacq, militante de Stop THT 40 et présidente de Landes Atlantique Environnement selon la presse locale, critique le tracé et appelle à des garanties environnementales.",
     "roles": [
       {
         "label": "Opposant / critique"
@@ -253,14 +322,19 @@
     "categories": [
       "opposants"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_13",
+      "evidence_gas_20261110_34",
+      "evidence_gas_20261110_14"
+    ]
   },
   {
     "id": "entity_0016",
     "type": "entity",
     "name": "Lamya Essemlali",
     "short_name": "Lamya Essemlali",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "Lamya Essemlali, présidente de Sea Shepherd France, critique lors d'une conférence de 2025 les impacts potentiels sur le vivant.",
     "roles": [
       {
         "label": "Opposant / critique"
@@ -269,7 +343,10 @@
     "categories": [
       "opposants"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_19"
+    ]
   },
   {
     "id": "entity_0017",
@@ -285,14 +362,17 @@
     "categories": [
       "griefs"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_19"
+    ]
   },
   {
     "id": "entity_0018",
     "type": "entity",
     "name": "Paul Watson",
     "short_name": "Paul Watson",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "Paul Watson est venu débattre à Seignosse en avril 2025 lors d'une conférence du collectif Stop THT 40.",
     "roles": [
       {
         "label": "Opposant / critique"
@@ -301,23 +381,10 @@
     "categories": [
       "opposants"
     ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "entity_0019",
-    "type": "entity",
-    "name": "Marc Mortelmans",
-    "short_name": "Marc Mortelmans",
-    "description": "Entité documentée dans les relations détaillées transmises.",
-    "roles": [
-      {
-        "label": "Opposant / critique"
-      }
-    ],
-    "categories": [
-      "opposants"
-    ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_19"
+    ]
   },
   {
     "id": "entity_0020",
@@ -333,7 +400,10 @@
     "categories": [
       "opposants"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_18"
+    ]
   },
   {
     "id": "entity_0021",
@@ -349,14 +419,17 @@
     "categories": [
       "context"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_18"
+    ]
   },
   {
     "id": "entity_0022",
     "type": "issue",
     "name": "Sécurité maritime",
     "short_name": "Sécurité maritime",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "Allégations de risques maritimes concernant certains navires de surveillance; Van Laar les dément.",
     "roles": [
       {
         "label": "Point de vigilance"
@@ -365,23 +438,10 @@
     "categories": [
       "griefs"
     ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "entity_0023",
-    "type": "entity",
-    "name": "FOMM, FSM, FNPD",
-    "short_name": "FOMM, FSM, FNPD",
-    "description": "Entité documentée dans les relations détaillées transmises.",
-    "roles": [
-      {
-        "label": "Opposant / critique"
-      }
-    ],
-    "categories": [
-      "opposants"
-    ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_18"
+    ]
   },
   {
     "id": "entity_0024",
@@ -397,30 +457,17 @@
     "categories": [
       "context"
     ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "entity_0025",
-    "type": "entity",
-    "name": "Françoise Tahéri",
-    "short_name": "Françoise Tahéri",
-    "description": "Entité documentée dans les relations détaillées transmises.",
-    "roles": [
-      {
-        "label": "Institution ou acteur cité"
-      }
-    ],
-    "categories": [
-      "context"
-    ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_18"
+    ]
   },
   {
     "id": "entity_0026",
     "type": "entity",
     "name": "Préfet des Landes",
     "short_name": "Préfet des Landes",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "Préfecture des Landes : présidence du Comité de suivi environnemental en 2026, suivi des prescriptions de protection des mammifères marins et surveillance phytosanitaire.",
     "roles": [
       {
         "label": "Institution ou acteur cité"
@@ -429,14 +476,18 @@
     "categories": [
       "context"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_17",
+      "evidence_gas_20261110_27"
+    ]
   },
   {
     "id": "entity_0027",
     "type": "issue",
     "name": "Impacts sur les mammifères marins",
     "short_name": "Impacts sur les mammifères marins",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "Risque et mesures de protection des mammifères marins pendant le chantier; échouage de mai 2026 sans causalité attribuée à la liaison.",
     "roles": [
       {
         "label": "Point de vigilance"
@@ -445,30 +496,20 @@
     "categories": [
       "griefs"
     ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "entity_0028",
-    "type": "entity",
-    "name": "Sébastien Lecornu",
-    "short_name": "Sébastien Lecornu",
-    "description": "Entité documentée dans les relations détaillées transmises.",
-    "roles": [
-      {
-        "label": "Institution ou acteur cité"
-      }
-    ],
-    "categories": [
-      "context"
-    ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_17",
+      "evidence_gas_20261110_13",
+      "evidence_gas_20261110_19",
+      "evidence_gas_20261110_16"
+    ]
   },
   {
     "id": "entity_0029",
     "type": "entity",
     "name": "Jérôme Rieu",
     "short_name": "Jérôme Rieu",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "Jérôme Rieu, délégué régional Sud-Ouest de RTE cité par Vert en octobre 2025, répond aux critiques du tracé landais.",
     "roles": [
       {
         "label": "Porteur / acteur du projet"
@@ -477,30 +518,17 @@
     "categories": [
       "porteurs"
     ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "entity_0030",
-    "type": "entity",
-    "name": "Emmanuel Gosset",
-    "short_name": "Emmanuel Gosset",
-    "description": "Entité documentée dans les relations détaillées transmises.",
-    "roles": [
-      {
-        "label": "Porteur / acteur du projet"
-      }
-    ],
-    "categories": [
-      "porteurs"
-    ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_25"
+    ]
   },
   {
     "id": "entity_0031",
     "type": "entity",
     "name": "Ludivine Mellier",
     "short_name": "Ludivine Mellier",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "Ludivine Mellier, directrice du programme interconnexions chez RTE dans la présentation institutionnelle du projet.",
     "roles": [
       {
         "label": "Porteur / acteur du projet"
@@ -509,30 +537,17 @@
     "categories": [
       "porteurs"
     ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "entity_0032",
-    "type": "entity",
-    "name": "Émilie Piette",
-    "short_name": "Émilie Piette",
-    "description": "Entité documentée dans les relations détaillées transmises.",
-    "roles": [
-      {
-        "label": "Porteur / acteur du projet"
-      }
-    ],
-    "categories": [
-      "porteurs"
-    ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_24"
+    ]
   },
   {
     "id": "entity_0033",
     "type": "entity",
     "name": "Xavier Piechaczyk",
     "short_name": "Xavier Piechaczyk",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "Xavier Piechaczyk, président du directoire de RTE au moment de la première pierre de Cubnezais en mai 2025.",
     "roles": [
       {
         "label": "Porteur / acteur du projet"
@@ -541,14 +556,17 @@
     "categories": [
       "porteurs"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_26"
+    ]
   },
   {
     "id": "entity_0034",
     "type": "entity",
     "name": "Ramon Granadino Goenechea",
     "short_name": "Ramon Granadino Goenechea",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "Ramon Granadino Goenechea, directeur de la planification et des installations chez Red Eléctrica, interrogé dans la présentation RTE.",
     "roles": [
       {
         "label": "Porteur / acteur du projet"
@@ -557,30 +575,17 @@
     "categories": [
       "porteurs"
     ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "entity_0035",
-    "type": "entity",
-    "name": "Juan Prieto Monterrubio",
-    "short_name": "Juan Prieto Monterrubio",
-    "description": "Entité documentée dans les relations détaillées transmises.",
-    "roles": [
-      {
-        "label": "Porteur / acteur du projet"
-      }
-    ],
-    "categories": [
-      "porteurs"
-    ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_24"
+    ]
   },
   {
     "id": "entity_0036",
     "type": "issue",
     "name": "Respect du droit environnemental",
     "short_name": "Respect du droit environnemental",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "Questions de droit environnemental et suivi des prescriptions réglementaires, sans infraction générale établie.",
     "roles": [
       {
         "label": "Point de vigilance"
@@ -589,14 +594,18 @@
     "categories": [
       "griefs"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_13",
+      "evidence_gas_20261110_14"
+    ]
   },
   {
     "id": "entity_0037",
     "type": "issue",
     "name": "Concertation et gouvernance",
     "short_name": "Concertation et gouvernance",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "Contestations sur le tracé et le suivi de l'information du public.",
     "roles": [
       {
         "label": "Point de vigilance"
@@ -605,14 +614,17 @@
     "categories": [
       "griefs"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_13"
+    ]
   },
   {
     "id": "entity_0038",
     "type": "issue",
     "name": "Protection de la biodiversité marine",
     "short_name": "Protection de la biodiversité marine",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "Protection de la biodiversité marine, suivie notamment par AZTI côté espagnol et le CSE côté français.",
     "roles": [
       {
         "label": "Point de vigilance"
@@ -621,222 +633,17 @@
     "categories": [
       "griefs"
     ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "entity_0039",
-    "type": "media",
-    "name": "Franceinfo",
-    "short_name": "Franceinfo",
-    "description": "Entité documentée dans les relations détaillées transmises.",
-    "roles": [
-      {
-        "label": "Média / source"
-      }
-    ],
-    "categories": [
-      "sources"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "entity_0040",
-    "type": "media",
-    "name": "ICI Gascogne",
-    "short_name": "ICI Gascogne",
-    "description": "Entité documentée dans les relations détaillées transmises.",
-    "roles": [
-      {
-        "label": "Média / source"
-      }
-    ],
-    "categories": [
-      "sources"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "entity_0041",
-    "type": "media",
-    "name": "France 3 Nouvelle-Aquitaine",
-    "short_name": "France 3 Nouvelle-Aquitaine",
-    "description": "Entité documentée dans les relations détaillées transmises.",
-    "roles": [
-      {
-        "label": "Média / source"
-      }
-    ],
-    "categories": [
-      "sources"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "entity_0042",
-    "type": "media",
-    "name": "Sud Ouest",
-    "short_name": "Sud Ouest",
-    "description": "Entité documentée dans les relations détaillées transmises.",
-    "roles": [
-      {
-        "label": "Média / source"
-      }
-    ],
-    "categories": [
-      "sources"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "entity_0043",
-    "type": "media",
-    "name": "Mer et Marine",
-    "short_name": "Mer et Marine",
-    "description": "Entité documentée dans les relations détaillées transmises.",
-    "roles": [
-      {
-        "label": "Média / source"
-      }
-    ],
-    "categories": [
-      "sources"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "entity_0044",
-    "type": "media",
-    "name": "Energies de la Mer",
-    "short_name": "Energies de la Mer",
-    "description": "Entité documentée dans les relations détaillées transmises.",
-    "roles": [
-      {
-        "label": "Média / source"
-      }
-    ],
-    "categories": [
-      "sources"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "entity_0045",
-    "type": "media",
-    "name": "La Relève et la Peste",
-    "short_name": "La Relève et la Peste",
-    "description": "Entité documentée dans les relations détaillées transmises.",
-    "roles": [
-      {
-        "label": "Média / source"
-      }
-    ],
-    "categories": [
-      "sources"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "entity_0046",
-    "type": "media",
-    "name": "Objectif Aquitaine / La Tribune",
-    "short_name": "Objectif Aquitaine / La Tribune",
-    "description": "Entité documentée dans les relations détaillées transmises.",
-    "roles": [
-      {
-        "label": "Média / source"
-      }
-    ],
-    "categories": [
-      "sources"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "entity_0047",
-    "type": "media",
-    "name": "L’Info Durable",
-    "short_name": "L’Info Durable",
-    "description": "Entité documentée dans les relations détaillées transmises.",
-    "roles": [
-      {
-        "label": "Média / source"
-      }
-    ],
-    "categories": [
-      "sources"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "entity_0048",
-    "type": "media",
-    "name": "La République des Pyrénées",
-    "short_name": "La République des Pyrénées",
-    "description": "Entité documentée dans les relations détaillées transmises.",
-    "roles": [
-      {
-        "label": "Média / source"
-      }
-    ],
-    "categories": [
-      "sources"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "entity_0049",
-    "type": "entity",
-    "name": "Mr Chambily (RTE)",
-    "short_name": "Mr Chambily (RTE)",
-    "description": "Entité documentée dans les relations détaillées transmises.",
-    "roles": [
-      {
-        "label": "Institution ou acteur cité"
-      }
-    ],
-    "categories": [
-      "context"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "entity_0050",
-    "type": "entity",
-    "name": "Mme Pajot (RTE)",
-    "short_name": "Mme Pajot (RTE)",
-    "description": "Entité documentée dans les relations détaillées transmises.",
-    "roles": [
-      {
-        "label": "Institution ou acteur cité"
-      }
-    ],
-    "categories": [
-      "context"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "entity_0051",
-    "type": "media",
-    "name": "Vert",
-    "short_name": "Vert",
-    "description": "Entité documentée dans les relations détaillées transmises.",
-    "roles": [
-      {
-        "label": "Média / source"
-      }
-    ],
-    "categories": [
-      "sources"
-    ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_19"
+    ]
   },
   {
     "id": "entity_0052",
     "type": "entity",
     "name": "Gilles Clavreul",
     "short_name": "Gilles Clavreul",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "Gilles Clavreul, préfet des Landes en juin 2026, préside le Comité de suivi environnemental.",
     "roles": [
       {
         "label": "Institution ou acteur cité"
@@ -845,14 +652,17 @@
     "categories": [
       "context"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_27"
+    ]
   },
   {
     "id": "entity_0053",
     "type": "entity",
     "name": "Conseil national de la protection de la nature (CNPN)",
     "short_name": "Conseil national de la protection de la nature (CNPN)",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "CNPN : avis défavorable consultatif daté du 22 août 2022 sur les aspects espèces protégées de la demande, avant obtention ultérieure de la DUP et des autorisations.",
     "roles": [
       {
         "label": "Institution ou acteur cité"
@@ -861,14 +671,17 @@
     "categories": [
       "context"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_22"
+    ]
   },
   {
     "id": "entity_0054",
     "type": "entity",
     "name": "Ministère de la transition énergétique",
     "short_name": "Ministère de la transition énergétique",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "Le ministère chargé de l'énergie a prononcé la DUP de la double liaison pour sa partie française en septembre 2023.",
     "roles": [
       {
         "label": "Institution ou acteur cité"
@@ -877,7 +690,10 @@
     "categories": [
       "context"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_21"
+    ]
   },
   {
     "id": "entity_0055",
@@ -893,14 +709,17 @@
     "categories": [
       "context"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_21"
+    ]
   },
   {
     "id": "entity_0056",
     "type": "entity",
     "name": "Landes Aquitaine Environnement",
     "short_name": "Landes Aquitaine Environnement",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "Association citée comme « Landes Aquitaine Environnement » dans l'article de 2024; rapprochement juridique avec Landes Atlantique Environnement non arbitré.",
     "roles": [
       {
         "label": "Opposant / critique"
@@ -909,7 +728,10 @@
     "categories": [
       "opposants"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_20"
+    ]
   },
   {
     "id": "entity_0057",
@@ -925,94 +747,17 @@
     "categories": [
       "context"
     ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "entity_0058",
-    "type": "entity",
-    "name": "Leyla Labescat",
-    "short_name": "Leyla Labescat",
-    "description": "Entité documentée dans les relations détaillées transmises.",
-    "roles": [
-      {
-        "label": "Opposant / critique"
-      }
-    ],
-    "categories": [
-      "opposants"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "entity_0059",
-    "type": "issue",
-    "name": "Champs électromagnétiques",
-    "short_name": "Champs électromagnétiques",
-    "description": "Entité documentée dans les relations détaillées transmises.",
-    "roles": [
-      {
-        "label": "Point de vigilance"
-      }
-    ],
-    "categories": [
-      "griefs"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "entity_0060",
-    "type": "entity",
-    "name": "François Bayrou",
-    "short_name": "François Bayrou",
-    "description": "Entité documentée dans les relations détaillées transmises.",
-    "roles": [
-      {
-        "label": "Institution ou acteur cité"
-      }
-    ],
-    "categories": [
-      "context"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "entity_0061",
-    "type": "entity",
-    "name": "Monique Barbut",
-    "short_name": "Monique Barbut",
-    "description": "Entité documentée dans les relations détaillées transmises.",
-    "roles": [
-      {
-        "label": "Institution ou acteur cité"
-      }
-    ],
-    "categories": [
-      "context"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "entity_0062",
-    "type": "entity",
-    "name": "Mairie de Capbreton",
-    "short_name": "Mairie de Capbreton",
-    "description": "Entité documentée dans les relations détaillées transmises.",
-    "roles": [
-      {
-        "label": "Institution ou acteur cité"
-      }
-    ],
-    "categories": [
-      "context"
-    ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_20"
+    ]
   },
   {
     "id": "entity_0063",
     "type": "entity",
     "name": "Laboratoire Pélagis",
     "short_name": "Laboratoire Pélagis",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "Observatoire Pelagis mobilisé sur l'échouage d'un cétacé à Capbreton en mai 2026; lien causal avec chantier non établi.",
     "roles": [
       {
         "label": "Institution ou acteur cité"
@@ -1021,14 +766,17 @@
     "categories": [
       "context"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_16"
+    ]
   },
   {
     "id": "entity_0064",
     "type": "entity",
     "name": "Comité de suivi environnemental (CSE)",
     "short_name": "Comité de suivi environnemental (CSE)",
-    "description": "Entité documentée dans les relations détaillées transmises.",
+    "description": "Comité de suivi environnemental installé dans les Landes, 5e réunion tenue le 5 juin 2026 sous l'égide du préfet.",
     "roles": [
       {
         "label": "Institution ou acteur cité"
@@ -1037,7 +785,11 @@
     "categories": [
       "context"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_17",
+      "evidence_gas_20261110_27"
+    ]
   },
   {
     "id": "entity_0065",
@@ -1053,7 +805,10 @@
     "categories": [
       "context"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_17"
+    ]
   },
   {
     "id": "entity_0066",
@@ -1069,7 +824,10 @@
     "categories": [
       "context"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_17"
+    ]
   },
   {
     "id": "entity_0067",
@@ -1085,7 +843,10 @@
     "categories": [
       "context"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_17"
+    ]
   },
   {
     "id": "entity_0068",
@@ -1101,22 +862,101 @@
     "categories": [
       "context"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_22",
+      "evidence_gas_20261110_17"
+    ]
   },
   {
-    "id": "entity_0069",
+    "id": "entity_0070",
     "type": "entity",
-    "name": "Chercheur spécialiste du suivi morphologique du canyon (anonyme)",
-    "short_name": "Chercheur spécialiste du suivi morphologique du canyon (anonyme)",
-    "description": "Entité documentée dans les relations détaillées transmises.",
-    "roles": [
-      {
-        "label": "Institution ou acteur cité"
-      }
-    ],
+    "name": "AZTI",
+    "short_name": "AZTI",
+    "description": "Centre technologique maritime associé à Red Eléctrica pour le suivi de la faune et des milieux du golfe de Gascogne.",
+    "roles": [],
     "categories": [
       "context"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_30"
+    ]
+  },
+  {
+    "id": "entity_0071",
+    "type": "entity",
+    "name": "Joan Groizard",
+    "short_name": "Joan Groizard",
+    "description": "Secrétaire d’État espagnol à l’Énergie, présent lors de la visite du chantier de Gatika le 21 septembre 2026.",
+    "roles": [],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_31"
+    ]
+  },
+  {
+    "id": "entity_0072",
+    "type": "entity",
+    "name": "Roberto García Merino",
+    "short_name": "Roberto García Merino",
+    "description": "Directeur général de Redeia, présent à la visite de Gatika en septembre 2026 et à la cérémonie de Cubnezais en 2025.",
+    "roles": [],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_26",
+      "evidence_gas_20261110_31"
+    ]
+  },
+  {
+    "id": "entity_0073",
+    "type": "entity",
+    "name": "Mikel Jauregi",
+    "short_name": "Mikel Jauregi",
+    "description": "Responsable basque de l’industrie et de l’énergie présent lors de la visite institutionnelle à Gatika en septembre 2026.",
+    "roles": [],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_31"
+    ]
+  },
+  {
+    "id": "entity_0074",
+    "type": "entity",
+    "name": "María Soledad Garmendia",
+    "short_name": "M. S. Garmendia",
+    "description": "Déléguée du gouvernement espagnol au Pays basque présente lors de la visite du chantier de Gatika.",
+    "roles": [],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_31"
+    ]
+  },
+  {
+    "id": "entity_0075",
+    "type": "entity",
+    "name": "3CS",
+    "short_name": "3CS",
+    "description": "Prestataire d'ingénierie revendiquant la modélisation des mises à la terre et chemins de câbles de Cubnezais; n'est pas maître d'ouvrage.",
+    "roles": [],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-11-10",
+    "evidence_ids": [
+      "evidence_gas_20261110_32"
+    ]
   }
 ]

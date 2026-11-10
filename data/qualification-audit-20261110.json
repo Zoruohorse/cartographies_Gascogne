@@ -1,0 +1,1306 @@
+{
+  "project": "Golfe de Gascogne",
+  "date": "2026-11-10",
+  "input": {
+    "filename": "Gascogne.xlsx",
+    "rows": 41,
+    "columns": [
+      "ID de la ressource",
+      "URL",
+      "Domaine",
+      "Date de trouvaille",
+      "Titre",
+      "Contenu",
+      "Tags"
+    ],
+    "unqualified": [
+      "liens Google Actualités",
+      "publication Facebook à contenu insuffisant",
+      "liens hors sujet sur pêche ou marchés"
+    ],
+    "baseline": {
+      "actors": 70,
+      "claims": 38,
+      "evidence": 87,
+      "relations": 87,
+      "sources": 11
+    }
+  },
+  "result": {
+    "actors": 50,
+    "claims": 15,
+    "evidence": 37,
+    "relations": 67,
+    "sources": 30,
+    "timeline": 42,
+    "dated_actors": 37
+  },
+  "removed_actors": [
+    {
+      "id": "entity_0019",
+      "name": "Marc Mortelmans",
+      "reason": "Aucune preuve qualifiée suffisante pour maintenir cet acteur dans la vue métier"
+    },
+    {
+      "id": "entity_0023",
+      "name": "FOMM, FSM, FNPD",
+      "reason": "Aucune preuve qualifiée suffisante pour maintenir cet acteur dans la vue métier"
+    },
+    {
+      "id": "entity_0025",
+      "name": "Françoise Tahéri",
+      "reason": "Aucune preuve qualifiée suffisante pour maintenir cet acteur dans la vue métier"
+    },
+    {
+      "id": "entity_0028",
+      "name": "Sébastien Lecornu",
+      "reason": "Aucune preuve qualifiée suffisante pour maintenir cet acteur dans la vue métier"
+    },
+    {
+      "id": "entity_0030",
+      "name": "Emmanuel Gosset",
+      "reason": "Aucune preuve qualifiée suffisante pour maintenir cet acteur dans la vue métier"
+    },
+    {
+      "id": "entity_0032",
+      "name": "Émilie Piette",
+      "reason": "Aucune preuve qualifiée suffisante pour maintenir cet acteur dans la vue métier"
+    },
+    {
+      "id": "entity_0035",
+      "name": "Juan Prieto Monterrubio",
+      "reason": "Aucune preuve qualifiée suffisante pour maintenir cet acteur dans la vue métier"
+    },
+    {
+      "id": "entity_0039",
+      "name": "Franceinfo",
+      "reason": "Média éditorial : à représenter dans sources.json, pas comme acteur"
+    },
+    {
+      "id": "entity_0040",
+      "name": "ICI Gascogne",
+      "reason": "Média éditorial : à représenter dans sources.json, pas comme acteur"
+    },
+    {
+      "id": "entity_0041",
+      "name": "France 3 Nouvelle-Aquitaine",
+      "reason": "Média éditorial : à représenter dans sources.json, pas comme acteur"
+    },
+    {
+      "id": "entity_0042",
+      "name": "Sud Ouest",
+      "reason": "Média éditorial : à représenter dans sources.json, pas comme acteur"
+    },
+    {
+      "id": "entity_0043",
+      "name": "Mer et Marine",
+      "reason": "Média éditorial : à représenter dans sources.json, pas comme acteur"
+    },
+    {
+      "id": "entity_0044",
+      "name": "Energies de la Mer",
+      "reason": "Média éditorial : à représenter dans sources.json, pas comme acteur"
+    },
+    {
+      "id": "entity_0045",
+      "name": "La Relève et la Peste",
+      "reason": "Média éditorial : à représenter dans sources.json, pas comme acteur"
+    },
+    {
+      "id": "entity_0046",
+      "name": "Objectif Aquitaine / La Tribune",
+      "reason": "Média éditorial : à représenter dans sources.json, pas comme acteur"
+    },
+    {
+      "id": "entity_0047",
+      "name": "L’Info Durable",
+      "reason": "Média éditorial : à représenter dans sources.json, pas comme acteur"
+    },
+    {
+      "id": "entity_0048",
+      "name": "La République des Pyrénées",
+      "reason": "Média éditorial : à représenter dans sources.json, pas comme acteur"
+    },
+    {
+      "id": "entity_0049",
+      "name": "Mr Chambily (RTE)",
+      "reason": "Aucune preuve qualifiée suffisante pour maintenir cet acteur dans la vue métier"
+    },
+    {
+      "id": "entity_0050",
+      "name": "Mme Pajot (RTE)",
+      "reason": "Aucune preuve qualifiée suffisante pour maintenir cet acteur dans la vue métier"
+    },
+    {
+      "id": "entity_0051",
+      "name": "Vert",
+      "reason": "Média éditorial : à représenter dans sources.json, pas comme acteur"
+    },
+    {
+      "id": "entity_0058",
+      "name": "Leyla Labescat",
+      "reason": "Aucune preuve qualifiée suffisante pour maintenir cet acteur dans la vue métier"
+    },
+    {
+      "id": "entity_0059",
+      "name": "Champs électromagnétiques",
+      "reason": "Aucune preuve qualifiée suffisante pour maintenir cet acteur dans la vue métier"
+    },
+    {
+      "id": "entity_0060",
+      "name": "François Bayrou",
+      "reason": "Aucune preuve qualifiée suffisante pour maintenir cet acteur dans la vue métier"
+    },
+    {
+      "id": "entity_0061",
+      "name": "Monique Barbut",
+      "reason": "Aucune preuve qualifiée suffisante pour maintenir cet acteur dans la vue métier"
+    },
+    {
+      "id": "entity_0062",
+      "name": "Mairie de Capbreton",
+      "reason": "Aucune preuve qualifiée suffisante pour maintenir cet acteur dans la vue métier"
+    },
+    {
+      "id": "entity_0069",
+      "name": "Chercheur spécialiste du suivi morphologique du canyon (anonyme)",
+      "reason": "Personne non identifiable"
+    }
+  ],
+  "removed_relations": [
+    {
+      "id": "relation_0023",
+      "source_id": "entity_0019",
+      "target_id": "entity_0015",
+      "summary": "position ambiguë",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0027",
+      "source_id": "entity_0014",
+      "target_id": "entity_0023",
+      "summary": "mobilisation commune",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0029",
+      "source_id": "entity_0023",
+      "target_id": "entity_0022",
+      "summary": "critique",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0032",
+      "source_id": "entity_0025",
+      "target_id": "project_gascogne",
+      "summary": "soutien",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0035",
+      "source_id": "entity_0028",
+      "target_id": "project_gascogne",
+      "summary": "soutien",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0037",
+      "source_id": "entity_0030",
+      "target_id": "entity_0001",
+      "summary": "rattachement",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0039",
+      "source_id": "entity_0032",
+      "target_id": "entity_0001",
+      "summary": "rattachement",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0043",
+      "source_id": "entity_0035",
+      "target_id": "entity_0002",
+      "summary": "rattachement",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0052",
+      "source_id": "entity_0039",
+      "target_id": "project_gascogne",
+      "summary": "source documentaire",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0053",
+      "source_id": "entity_0040",
+      "target_id": "project_gascogne",
+      "summary": "source documentaire",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0054",
+      "source_id": "entity_0041",
+      "target_id": "project_gascogne",
+      "summary": "source documentaire",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0055",
+      "source_id": "entity_0042",
+      "target_id": "project_gascogne",
+      "summary": "source documentaire",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0056",
+      "source_id": "entity_0043",
+      "target_id": "project_gascogne",
+      "summary": "source documentaire",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0057",
+      "source_id": "entity_0044",
+      "target_id": "project_gascogne",
+      "summary": "source documentaire",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0058",
+      "source_id": "entity_0045",
+      "target_id": "project_gascogne",
+      "summary": "source documentaire",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0059",
+      "source_id": "entity_0046",
+      "target_id": "project_gascogne",
+      "summary": "source documentaire",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0060",
+      "source_id": "entity_0047",
+      "target_id": "project_gascogne",
+      "summary": "source documentaire",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0061",
+      "source_id": "entity_0048",
+      "target_id": "project_gascogne",
+      "summary": "source documentaire",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0062",
+      "source_id": "entity_0049",
+      "target_id": "entity_0001",
+      "summary": "rattachement",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0063",
+      "source_id": "entity_0050",
+      "target_id": "entity_0001",
+      "summary": "rattachement",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0064",
+      "source_id": "entity_0009",
+      "target_id": "entity_0049",
+      "summary": "interpellation publique",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0065",
+      "source_id": "entity_0009",
+      "target_id": "entity_0050",
+      "summary": "interpellation publique",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0066",
+      "source_id": "entity_0051",
+      "target_id": "project_gascogne",
+      "summary": "source documentaire",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0071",
+      "source_id": "entity_0056",
+      "target_id": "entity_0009",
+      "summary": "soutien juridique",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0074",
+      "source_id": "entity_0058",
+      "target_id": "entity_0056",
+      "summary": "représentation",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0075",
+      "source_id": "entity_0058",
+      "target_id": "entity_0059",
+      "summary": "inquiétude",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0076",
+      "source_id": "entity_0009",
+      "target_id": "entity_0060",
+      "summary": "demande de moratoire",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0077",
+      "source_id": "entity_0009",
+      "target_id": "entity_0061",
+      "summary": "interpellation",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0078",
+      "source_id": "entity_0062",
+      "target_id": "entity_0027",
+      "summary": "position institutionnelle",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    },
+    {
+      "id": "relation_0087",
+      "source_id": "entity_0069",
+      "target_id": "project_gascogne",
+      "summary": "expertise technique",
+      "reason": "Relation dépourvue de preuve suffisamment spécifique avec URL canonique"
+    }
+  ],
+  "removed_claims": [
+    {
+      "id": "claim_0006",
+      "subject_id": "entity_0006",
+      "old_value": "neutral",
+      "old_summary": "Prestataire technique pour la pose des câbles sous-marins.",
+      "reason": "Absence de preuve directe d'une position sur le projet; neutralité ne s'infère pas d'un rôle technique ou médiatique"
+    },
+    {
+      "id": "claim_0007",
+      "subject_id": "entity_0007",
+      "old_value": "neutral",
+      "old_summary": "Prestataire technique pour la pose des câbles sous-marins.",
+      "reason": "Absence de preuve directe d'une position sur le projet; neutralité ne s'infère pas d'un rôle technique ou médiatique"
+    },
+    {
+      "id": "claim_0008",
+      "subject_id": "entity_0008",
+      "old_value": "neutral",
+      "old_summary": "Fourniture de navires de surveillance.",
+      "reason": "Absence de preuve directe d'une position sur le projet; neutralité ne s'infère pas d'un rôle technique ou médiatique"
+    },
+    {
+      "id": "claim_0012",
+      "subject_id": "entity_0014",
+      "old_value": "opposed",
+      "old_summary": "Critique des conditions maritimes du chantier.",
+      "reason": "Absence de preuve directe d'une position sur le projet; neutralité ne s'infère pas d'un rôle technique ou médiatique"
+    },
+    {
+      "id": "claim_0014",
+      "subject_id": "entity_0025",
+      "old_value": "favorable",
+      "old_summary": "Favorable à la poursuite du chantier sous contrôle environnemental.",
+      "reason": "Absence de preuve directe d'une position sur le projet; neutralité ne s'infère pas d'un rôle technique ou médiatique"
+    },
+    {
+      "id": "claim_0015",
+      "subject_id": "entity_0026",
+      "old_value": "neutral",
+      "old_summary": "Suivi du chantier et contrôles complémentaires.",
+      "reason": "Absence de preuve directe d'une position sur le projet; neutralité ne s'infère pas d'un rôle technique ou médiatique"
+    },
+    {
+      "id": "claim_0016",
+      "subject_id": "entity_0028",
+      "old_value": "favorable",
+      "old_summary": "Favorable à l’électrification et à la réduction de la dépendance aux énergies fossiles.",
+      "reason": "Absence de preuve directe d'une position sur le projet; neutralité ne s'infère pas d'un rôle technique ou médiatique"
+    },
+    {
+      "id": "claim_0018",
+      "subject_id": "entity_0039",
+      "old_value": "neutral",
+      "old_summary": "Information sur la baleine échouée.",
+      "reason": "Absence de preuve directe d'une position sur le projet; neutralité ne s'infère pas d'un rôle technique ou médiatique"
+    },
+    {
+      "id": "claim_0019",
+      "subject_id": "entity_0040",
+      "old_value": "neutral",
+      "old_summary": "Couverture du chantier et des échouages.",
+      "reason": "Absence de preuve directe d'une position sur le projet; neutralité ne s'infère pas d'un rôle technique ou médiatique"
+    },
+    {
+      "id": "claim_0020",
+      "subject_id": "entity_0041",
+      "old_value": "neutral",
+      "old_summary": "Reportages environnementaux.",
+      "reason": "Absence de preuve directe d'une position sur le projet; neutralité ne s'infère pas d'un rôle technique ou médiatique"
+    },
+    {
+      "id": "claim_0021",
+      "subject_id": "entity_0042",
+      "old_value": "neutral",
+      "old_summary": "Source majeure sur le conflit local.",
+      "reason": "Absence de preuve directe d'une position sur le projet; neutralité ne s'infère pas d'un rôle technique ou médiatique"
+    },
+    {
+      "id": "claim_0022",
+      "subject_id": "entity_0043",
+      "old_value": "neutral",
+      "old_summary": "Suivi du chantier et enjeux maritimes.",
+      "reason": "Absence de preuve directe d'une position sur le projet; neutralité ne s'infère pas d'un rôle technique ou médiatique"
+    },
+    {
+      "id": "claim_0023",
+      "subject_id": "entity_0044",
+      "old_value": "neutral",
+      "old_summary": "Suivi technique du projet.",
+      "reason": "Absence de preuve directe d'une position sur le projet; neutralité ne s'infère pas d'un rôle technique ou médiatique"
+    },
+    {
+      "id": "claim_0024",
+      "subject_id": "entity_0045",
+      "old_value": "neutral",
+      "old_summary": "Relais des critiques écologistes.",
+      "reason": "Absence de preuve directe d'une position sur le projet; neutralité ne s'infère pas d'un rôle technique ou médiatique"
+    },
+    {
+      "id": "claim_0025",
+      "subject_id": "entity_0046",
+      "old_value": "neutral",
+      "old_summary": "Analyse stratégique des infrastructures.",
+      "reason": "Absence de preuve directe d'une position sur le projet; neutralité ne s'infère pas d'un rôle technique ou médiatique"
+    },
+    {
+      "id": "claim_0026",
+      "subject_id": "entity_0047",
+      "old_value": "neutral",
+      "old_summary": "Source secondaire.",
+      "reason": "Absence de preuve directe d'une position sur le projet; neutralité ne s'infère pas d'un rôle technique ou médiatique"
+    },
+    {
+      "id": "claim_0027",
+      "subject_id": "entity_0048",
+      "old_value": "neutral",
+      "old_summary": "Analyse des interconnexions européennes.",
+      "reason": "Absence de preuve directe d'une position sur le projet; neutralité ne s'infère pas d'un rôle technique ou médiatique"
+    },
+    {
+      "id": "claim_0028",
+      "subject_id": "entity_0051",
+      "old_value": "neutral",
+      "old_summary": "Enquête du 13 juin 2026 sur le conflit local.",
+      "reason": "Absence de preuve directe d'une position sur le projet; neutralité ne s'infère pas d'un rôle technique ou médiatique"
+    },
+    {
+      "id": "claim_0031",
+      "subject_id": "entity_0055",
+      "old_value": "favorable",
+      "old_summary": "RTE indique qu’un avis favorable conforme a été émis et que les autorisations ont été signées.",
+      "reason": "Absence de preuve directe d'une position sur le projet; neutralité ne s'infère pas d'un rôle technique ou médiatique"
+    },
+    {
+      "id": "claim_0032",
+      "subject_id": "entity_0056",
+      "old_value": "opposed",
+      "old_summary": "Le rapport cite un recours contre les travaux à son initiative.",
+      "reason": "Absence de preuve directe d'une position sur le projet; neutralité ne s'infère pas d'un rôle technique ou médiatique"
+    },
+    {
+      "id": "claim_0033",
+      "subject_id": "entity_0064",
+      "old_value": "neutral",
+      "old_summary": "Le CSE est dédié aux travaux et aux engagements environnementaux de RTE.",
+      "reason": "Absence de preuve directe d'une position sur le projet; neutralité ne s'infère pas d'un rôle technique ou médiatique"
+    },
+    {
+      "id": "claim_0034",
+      "subject_id": "entity_0065",
+      "old_value": "neutral",
+      "old_summary": "La DREAL est citée parmi les services de l’État assurant la supervision.",
+      "reason": "Absence de preuve directe d'une position sur le projet; neutralité ne s'infère pas d'un rôle technique ou médiatique"
+    },
+    {
+      "id": "claim_0035",
+      "subject_id": "entity_0066",
+      "old_value": "neutral",
+      "old_summary": "La DDTM est citée parmi les services de l’État assurant la supervision.",
+      "reason": "Absence de preuve directe d'une position sur le projet; neutralité ne s'infère pas d'un rôle technique ou médiatique"
+    },
+    {
+      "id": "claim_0036",
+      "subject_id": "entity_0067",
+      "old_value": "neutral",
+      "old_summary": "L’OFB est cité parmi les services de l’État assurant la supervision.",
+      "reason": "Absence de preuve directe d'une position sur le projet; neutralité ne s'infère pas d'un rôle technique ou médiatique"
+    },
+    {
+      "id": "claim_0037",
+      "subject_id": "entity_0068",
+      "old_value": "neutral",
+      "old_summary": "Sa surveillance est citée parmi les dispositifs de respect des prescriptions environnementales.",
+      "reason": "Absence de preuve directe d'une position sur le projet; neutralité ne s'infère pas d'un rôle technique ou médiatique"
+    },
+    {
+      "id": "claim_0038",
+      "subject_id": "entity_0069",
+      "old_value": "neutral",
+      "old_summary": "Il explique l’impossibilité de faire passer des câbles dans le gouf de Capbreton.",
+      "reason": "Absence de preuve directe d'une position sur le projet; neutralité ne s'infère pas d'un rôle technique ou médiatique"
+    }
+  ],
+  "original_evidence_archive": [
+    {
+      "id": "evidence_relation_0001",
+      "type": "summary",
+      "text": "RTE est le porteur français du projet.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0002",
+      "type": "summary",
+      "text": "Red Eléctrica est le co-porteur espagnol.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0003",
+      "type": "summary",
+      "text": "Inelfe assure la maîtrise d’ouvrage transfrontalière.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0004",
+      "type": "summary",
+      "text": "Inelfe est une coentreprise RTE / Red Eléctrica.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0005",
+      "type": "summary",
+      "text": "Inelfe est une coentreprise RTE / Red Eléctrica.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0006",
+      "type": "summary",
+      "text": "Projet considéré comme d’intérêt commun européen.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0007",
+      "type": "summary",
+      "text": "Soutien financier de 1,6 Md€.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0008",
+      "type": "summary",
+      "text": "Prestataire technique pour la pose des câbles sous-marins.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0009",
+      "type": "summary",
+      "text": "Prestataire technique pour la pose des câbles sous-marins.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0010",
+      "type": "summary",
+      "text": "Fourniture de navires de surveillance.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0011",
+      "type": "summary",
+      "text": "Principal collectif opposé au projet.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0012",
+      "type": "summary",
+      "text": "Contestation environnementale.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0013",
+      "type": "summary",
+      "text": "Co-signataire de plainte liée au nématode.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0014",
+      "type": "summary",
+      "text": "Critique du projet et de ses impacts potentiels.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0015",
+      "type": "summary",
+      "text": "Critique des conditions maritimes du chantier.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0016",
+      "type": "summary",
+      "text": "Présidente de StopTHT40.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0017",
+      "type": "summary",
+      "text": "Présidente de Landes Atlantique Environnement.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0018",
+      "type": "summary",
+      "text": "Opposée au projet et à son tracé actuel.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0019",
+      "type": "summary",
+      "text": "Présidente de Sea Shepherd France.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0020",
+      "type": "summary",
+      "text": "Critique la logique de sacrifice du vivant.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0021",
+      "type": "summary",
+      "text": "Fondateur de Sea Shepherd.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0022",
+      "type": "summary",
+      "text": "Participation à une conférence organisée par StopTHT40.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0023",
+      "type": "summary",
+      "text": "Cité aux côtés de Marie Darzacq lors d’une conférence d’opposition.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0024",
+      "type": "summary",
+      "text": "Représentants au CSMM.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0025",
+      "type": "summary",
+      "text": "Demande le retrait des navires de Van Laar.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0026",
+      "type": "summary",
+      "text": "Dénonce une flotte totalement en dehors des règles de sécurité maritime.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0027",
+      "type": "summary",
+      "text": "Organisations associées à la démarche CGT.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0028",
+      "type": "summary",
+      "text": "Dénonce les navires utilisés sur le chantier.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0029",
+      "type": "summary",
+      "text": "Critiques sur la sécurité maritime.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0030",
+      "type": "summary",
+      "text": "Saisi des questions de sécurité maritime.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0031",
+      "type": "summary",
+      "text": "Sollicité par la CGT dans le cadre du dossier maritime.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0032",
+      "type": "summary",
+      "text": "Favorable à la poursuite du chantier sous contrôle environnemental.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0033",
+      "type": "summary",
+      "text": "Suivi du chantier et contrôles complémentaires.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0034",
+      "type": "summary",
+      "text": "Demande des contrôles complémentaires sur les mammifères marins.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0035",
+      "type": "summary",
+      "text": "Favorable à l’électrification et à la réduction de la dépendance aux énergies fossiles.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0036",
+      "type": "summary",
+      "text": "Délégué régional RTE.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0037",
+      "type": "summary",
+      "text": "Directeur de projet RTE.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0038",
+      "type": "summary",
+      "text": "Directrice du programme interconnexions RTE.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0039",
+      "type": "summary",
+      "text": "Présidente du directoire de RTE.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0040",
+      "type": "summary",
+      "text": "Président du directoire de RTE.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0041",
+      "type": "summary",
+      "text": "Défend les bénéfices énergétiques de l’interconnexion.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0042",
+      "type": "summary",
+      "text": "Directeur planification Red Eléctrica.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0043",
+      "type": "summary",
+      "text": "Directeur de projets Red Eléctrica.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0044",
+      "type": "summary",
+      "text": "Critique les impacts environnementaux.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0045",
+      "type": "summary",
+      "text": "Critique les procédures environnementales.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0046",
+      "type": "summary",
+      "text": "Critique la concertation et la gouvernance.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0047",
+      "type": "summary",
+      "text": "Dépôt de plainte et demande de traçabilité.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0048",
+      "type": "summary",
+      "text": "Contestation environnementale.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0049",
+      "type": "summary",
+      "text": "Critique au nom de la protection du vivant.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0050",
+      "type": "summary",
+      "text": "Critique les impacts potentiels sur le vivant marin.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0051",
+      "type": "summary",
+      "text": "Critique du projet comme symbole d’une logique énergétique au détriment du vivant.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0052",
+      "type": "summary",
+      "text": "Information sur la baleine échouée.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0053",
+      "type": "summary",
+      "text": "Couverture du chantier et des échouages.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0054",
+      "type": "summary",
+      "text": "Reportages environnementaux.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0055",
+      "type": "summary",
+      "text": "Source majeure sur le conflit local.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0056",
+      "type": "summary",
+      "text": "Suivi du chantier et enjeux maritimes.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0057",
+      "type": "summary",
+      "text": "Suivi technique du projet.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0058",
+      "type": "summary",
+      "text": "Relais des critiques écologistes.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0059",
+      "type": "summary",
+      "text": "Analyse stratégique des infrastructures.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0060",
+      "type": "summary",
+      "text": "Source secondaire.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0061",
+      "type": "summary",
+      "text": "Analyse des interconnexions européennes.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0062",
+      "type": "summary",
+      "text": "Le post de Stop THT 40 le désigne comme « Mr Chambily (RTE) ».",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0063",
+      "type": "summary",
+      "text": "Le post de Stop THT 40 la désigne comme « Mme Pajot (RTE) ».",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0064",
+      "type": "summary",
+      "text": "Le collectif l’invite à sa table ronde du 28 juin.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0065",
+      "type": "summary",
+      "text": "Le collectif l’invite à sa table ronde du 28 juin.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0066",
+      "type": "summary",
+      "text": "Enquête du 13 juin 2026 sur le conflit local.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0067",
+      "type": "summary",
+      "text": "L’article de Vert le désigne comme « le préfet des Landes ».",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0068",
+      "type": "summary",
+      "text": "Avis défavorable du 22 août 2022 cité dans le rapport.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0069",
+      "type": "summary",
+      "text": "Le projet est présenté comme déclaré d’utilité publique par ce ministère.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0070",
+      "type": "summary",
+      "text": "RTE indique qu’un avis favorable conforme a été émis et que les autorisations ont été signées.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0071",
+      "type": "summary",
+      "text": "L’association est décrite comme soutenant juridiquement le collectif.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0072",
+      "type": "summary",
+      "text": "Le rapport cite un recours contre les travaux à son initiative.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0073",
+      "type": "summary",
+      "text": "Le recours est indiqué comme porté devant le Conseil d’État.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0074",
+      "type": "summary",
+      "text": "Elle est citée comme secrétaire de l’association.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0075",
+      "type": "summary",
+      "text": "Elle questionne l’absence d’étude sur les conséquences potentielles pour la santé.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0076",
+      "type": "summary",
+      "text": "Une lettre ouverte lui a été adressée en 2024 pour demander un moratoire.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0077",
+      "type": "summary",
+      "text": "Les militants comptent sur elle pour accéder à leur demande.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0078",
+      "type": "summary",
+      "text": "Elle indique initialement qu’aucun élément ne permet de relier le décès au chantier.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0079",
+      "type": "summary",
+      "text": "Pélagis évoque une probable infection et précise que la cause primaire demeure indéterminée.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0080",
+      "type": "summary",
+      "text": "Le CSE est dédié aux travaux et aux engagements environnementaux de RTE.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0081",
+      "type": "summary",
+      "text": "La cinquième réunion s’est tenue sous la présidence du préfet des Landes.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0082",
+      "type": "summary",
+      "text": "La DREAL est citée parmi les services de l’État assurant la supervision.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0083",
+      "type": "summary",
+      "text": "La DDTM est citée parmi les services de l’État assurant la supervision.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0084",
+      "type": "summary",
+      "text": "L’OFB est cité parmi les services de l’État assurant la supervision.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0085",
+      "type": "summary",
+      "text": "Le rapport le décrit comme missionné par RTE.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0086",
+      "type": "summary",
+      "text": "Sa surveillance est citée parmi les dispositifs de respect des prescriptions environnementales.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    },
+    {
+      "id": "evidence_relation_0087",
+      "type": "summary",
+      "text": "Il explique l’impossibilité de faire passer des câbles dans le gouf de Capbreton.",
+      "source_id": null,
+      "source_status": "user_provided",
+      "updated_at": "2026-10-06"
+    }
+  ],
+  "original_source_notices_without_url": [
+    {
+      "id": "source_0004",
+      "title": "ICI Gascogne",
+      "publisher": "ICI Gascogne",
+      "description": "Source documentaire citée dans les relations fournies.",
+      "url": null,
+      "status": "url_to_add"
+    },
+    {
+      "id": "source_0005",
+      "title": "La Relève et la Peste",
+      "publisher": "La Relève et la Peste",
+      "description": "Source documentaire citée dans les relations fournies.",
+      "url": null,
+      "status": "url_to_add"
+    },
+    {
+      "id": "source_0007",
+      "title": "L’Info Durable",
+      "publisher": "L’Info Durable",
+      "description": "Source documentaire citée dans les relations fournies.",
+      "url": null,
+      "status": "url_to_add"
+    }
+  ],
+  "evidence_status_counts": {
+    "direct_web": 30,
+    "excel_only": 6,
+    "pdf_web_text": 1
+  },
+  "vigilance": [
+    "Le PDF officiel CNPN a pu être consulté sous forme de texte; capture visuelle refusée 403. Ne pas revendiquer une inspection d'image PDF.",
+    "L'association Landes Aquitaine Environnement citée en 2024 et Landes Atlantique Environnement citée en 2026 ne sont pas fusionnées.",
+    "Taux 70 % de chantier ne vaut pas 70 % de câbles posés.",
+    "Les assertions historiques sans source sont archivées et exclues du réseau actif."
+  ],
+  "validation": {
+    "errors": [],
+    "duplicates": 0,
+    "broken_references": 0
+  }
+}

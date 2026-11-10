@@ -1,698 +1,409 @@
 [
   {
-    "id": "evidence_relation_0001",
-    "type": "summary",
-    "text": "RTE est le porteur français du projet.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0002",
-    "type": "summary",
-    "text": "Red Eléctrica est le co-porteur espagnol.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0003",
-    "type": "summary",
-    "text": "Inelfe assure la maîtrise d’ouvrage transfrontalière.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0004",
-    "type": "summary",
-    "text": "Inelfe est une coentreprise RTE / Red Eléctrica.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0005",
-    "type": "summary",
-    "text": "Inelfe est une coentreprise RTE / Red Eléctrica.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0006",
-    "type": "summary",
-    "text": "Projet considéré comme d’intérêt commun européen.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0007",
-    "type": "summary",
-    "text": "Soutien financier de 1,6 Md€.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0008",
-    "type": "summary",
-    "text": "Prestataire technique pour la pose des câbles sous-marins.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0009",
-    "type": "summary",
-    "text": "Prestataire technique pour la pose des câbles sous-marins.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0010",
-    "type": "summary",
-    "text": "Fourniture de navires de surveillance.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0011",
-    "type": "summary",
-    "text": "Principal collectif opposé au projet.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0012",
-    "type": "summary",
-    "text": "Contestation environnementale.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0013",
-    "type": "summary",
-    "text": "Co-signataire de plainte liée au nématode.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0014",
-    "type": "summary",
-    "text": "Critique du projet et de ses impacts potentiels.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0015",
-    "type": "summary",
-    "text": "Critique des conditions maritimes du chantier.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0016",
-    "type": "summary",
-    "text": "Présidente de StopTHT40.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0017",
-    "type": "summary",
-    "text": "Présidente de Landes Atlantique Environnement.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0018",
-    "type": "summary",
-    "text": "Opposée au projet et à son tracé actuel.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0019",
-    "type": "summary",
-    "text": "Présidente de Sea Shepherd France.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0020",
-    "type": "summary",
-    "text": "Critique la logique de sacrifice du vivant.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0021",
-    "type": "summary",
-    "text": "Fondateur de Sea Shepherd.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0022",
-    "type": "summary",
-    "text": "Participation à une conférence organisée par StopTHT40.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0023",
-    "type": "summary",
-    "text": "Cité aux côtés de Marie Darzacq lors d’une conférence d’opposition.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0024",
-    "type": "summary",
-    "text": "Représentants au CSMM.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0025",
-    "type": "summary",
-    "text": "Demande le retrait des navires de Van Laar.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0026",
-    "type": "summary",
-    "text": "Dénonce une flotte totalement en dehors des règles de sécurité maritime.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0027",
-    "type": "summary",
-    "text": "Organisations associées à la démarche CGT.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0028",
-    "type": "summary",
-    "text": "Dénonce les navires utilisés sur le chantier.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0029",
-    "type": "summary",
-    "text": "Critiques sur la sécurité maritime.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0030",
-    "type": "summary",
-    "text": "Saisi des questions de sécurité maritime.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0031",
-    "type": "summary",
-    "text": "Sollicité par la CGT dans le cadre du dossier maritime.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0032",
-    "type": "summary",
-    "text": "Favorable à la poursuite du chantier sous contrôle environnemental.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0033",
-    "type": "summary",
-    "text": "Suivi du chantier et contrôles complémentaires.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0034",
-    "type": "summary",
-    "text": "Demande des contrôles complémentaires sur les mammifères marins.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0035",
-    "type": "summary",
-    "text": "Favorable à l’électrification et à la réduction de la dépendance aux énergies fossiles.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0036",
-    "type": "summary",
-    "text": "Délégué régional RTE.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0037",
-    "type": "summary",
-    "text": "Directeur de projet RTE.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0038",
-    "type": "summary",
-    "text": "Directrice du programme interconnexions RTE.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0039",
-    "type": "summary",
-    "text": "Présidente du directoire de RTE.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0040",
-    "type": "summary",
-    "text": "Président du directoire de RTE.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0041",
-    "type": "summary",
-    "text": "Défend les bénéfices énergétiques de l’interconnexion.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0042",
-    "type": "summary",
-    "text": "Directeur planification Red Eléctrica.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0043",
-    "type": "summary",
-    "text": "Directeur de projets Red Eléctrica.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0044",
-    "type": "summary",
-    "text": "Critique les impacts environnementaux.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0045",
-    "type": "summary",
-    "text": "Critique les procédures environnementales.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0046",
-    "type": "summary",
-    "text": "Critique la concertation et la gouvernance.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0047",
-    "type": "summary",
-    "text": "Dépôt de plainte et demande de traçabilité.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0048",
-    "type": "summary",
-    "text": "Contestation environnementale.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0049",
-    "type": "summary",
-    "text": "Critique au nom de la protection du vivant.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0050",
-    "type": "summary",
-    "text": "Critique les impacts potentiels sur le vivant marin.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0051",
-    "type": "summary",
-    "text": "Critique du projet comme symbole d’une logique énergétique au détriment du vivant.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0052",
-    "type": "summary",
-    "text": "Information sur la baleine échouée.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0053",
-    "type": "summary",
-    "text": "Couverture du chantier et des échouages.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0054",
-    "type": "summary",
-    "text": "Reportages environnementaux.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0055",
-    "type": "summary",
-    "text": "Source majeure sur le conflit local.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0056",
-    "type": "summary",
-    "text": "Suivi du chantier et enjeux maritimes.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0057",
-    "type": "summary",
-    "text": "Suivi technique du projet.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0058",
-    "type": "summary",
-    "text": "Relais des critiques écologistes.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0059",
-    "type": "summary",
-    "text": "Analyse stratégique des infrastructures.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0060",
-    "type": "summary",
-    "text": "Source secondaire.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0061",
-    "type": "summary",
-    "text": "Analyse des interconnexions européennes.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0062",
-    "type": "summary",
-    "text": "Le post de Stop THT 40 le désigne comme « Mr Chambily (RTE) ».",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0063",
-    "type": "summary",
-    "text": "Le post de Stop THT 40 la désigne comme « Mme Pajot (RTE) ».",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0064",
-    "type": "summary",
-    "text": "Le collectif l’invite à sa table ronde du 28 juin.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0065",
-    "type": "summary",
-    "text": "Le collectif l’invite à sa table ronde du 28 juin.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0066",
-    "type": "summary",
-    "text": "Enquête du 13 juin 2026 sur le conflit local.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0067",
-    "type": "summary",
-    "text": "L’article de Vert le désigne comme « le préfet des Landes ».",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0068",
-    "type": "summary",
-    "text": "Avis défavorable du 22 août 2022 cité dans le rapport.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0069",
-    "type": "summary",
-    "text": "Le projet est présenté comme déclaré d’utilité publique par ce ministère.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0070",
-    "type": "summary",
-    "text": "RTE indique qu’un avis favorable conforme a été émis et que les autorisations ont été signées.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0071",
-    "type": "summary",
-    "text": "L’association est décrite comme soutenant juridiquement le collectif.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0072",
-    "type": "summary",
-    "text": "Le rapport cite un recours contre les travaux à son initiative.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0073",
-    "type": "summary",
-    "text": "Le recours est indiqué comme porté devant le Conseil d’État.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0074",
-    "type": "summary",
-    "text": "Elle est citée comme secrétaire de l’association.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0075",
-    "type": "summary",
-    "text": "Elle questionne l’absence d’étude sur les conséquences potentielles pour la santé.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0076",
-    "type": "summary",
-    "text": "Une lettre ouverte lui a été adressée en 2024 pour demander un moratoire.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0077",
-    "type": "summary",
-    "text": "Les militants comptent sur elle pour accéder à leur demande.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0078",
-    "type": "summary",
-    "text": "Elle indique initialement qu’aucun élément ne permet de relier le décès au chantier.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0079",
-    "type": "summary",
-    "text": "Pélagis évoque une probable infection et précise que la cause primaire demeure indéterminée.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0080",
-    "type": "summary",
-    "text": "Le CSE est dédié aux travaux et aux engagements environnementaux de RTE.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0081",
-    "type": "summary",
-    "text": "La cinquième réunion s’est tenue sous la présidence du préfet des Landes.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0082",
-    "type": "summary",
-    "text": "La DREAL est citée parmi les services de l’État assurant la supervision.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0083",
-    "type": "summary",
-    "text": "La DDTM est citée parmi les services de l’État assurant la supervision.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0084",
-    "type": "summary",
-    "text": "L’OFB est cité parmi les services de l’État assurant la supervision.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0085",
-    "type": "summary",
-    "text": "Le rapport le décrit comme missionné par RTE.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0086",
-    "type": "summary",
-    "text": "Sa surveillance est citée parmi les dispositifs de respect des prescriptions environnementales.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "evidence_relation_0087",
-    "type": "summary",
-    "text": "Il explique l’impossibilité de faire passer des câbles dans le gouf de Capbreton.",
-    "source_id": null,
-    "source_status": "user_provided",
-    "updated_at": "2026-10-06"
+    "id": "evidence_gas_20261110_01",
+    "type": "documented_summary",
+    "text": "RTE et Red Eléctrica sont les deux gestionnaires de réseau à l’origine du projet, développé par leur coentreprise INELFE détenue à parts égales.",
+    "source_id": "source_0012",
+    "source_status": "direct_web",
+    "published_at": null,
+    "accessed_at": "2026-11-10",
+    "location": "RTE, page projet, présentation",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_02",
+    "type": "documented_summary",
+    "text": "La BEI annonce le 16 juin 2025 un soutien sous forme de prêts d’un montant engagé allant jusqu’à 1,6 Md€, avec premières tranches de 1,2 Md€ signées; cette dette ne constitue pas une subvention.",
+    "source_id": "source_0015",
+    "source_status": "direct_web",
+    "published_at": "2025-06-16",
+    "accessed_at": "2026-11-10",
+    "location": "BEI, communiqué, financement",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_03",
+    "type": "documented_summary",
+    "text": "La CRE et la CNMC évaluent le coût prévisionnel 2023 à 2,85 Md€ avec une enveloppe pour risques de 250 M€, contre 1,75 Md€ prévu en 2017. Une subvention européenne de 578 M€ est distincte des prêts BEI.",
+    "source_id": "source_0016",
+    "source_status": "direct_web",
+    "published_at": "2023-03-02",
+    "accessed_at": "2026-11-10",
+    "location": "CRE, communiqué du 2 mars 2023",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_04",
+    "type": "documented_summary",
+    "text": "INELFE présente deux liaisons HVDC de 1 000 MW chacune, quatre câbles de puissance sur environ 400 km, portant la capacité d’échange agrégée entre la France et l’Espagne de 2 800 à 5 000 MW.",
+    "source_id": "source_0018",
+    "source_status": "direct_web",
+    "published_at": null,
+    "accessed_at": "2026-11-10",
+    "location": "INELFE, caractéristiques du projet",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_05",
+    "type": "documented_summary",
+    "text": "Red Eléctrica annonce le 29 octobre 2026 que l’exécution du chantier atteint 70 % au total; cela ne signifie pas que tous les câbles sous-marins France–Espagne sont déjà posés.",
+    "source_id": "source_0013",
+    "source_status": "direct_web",
+    "published_at": "2026-10-29",
+    "accessed_at": "2026-11-10",
+    "location": "Red Eléctrica, communiqué du 29 octobre",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_06",
+    "type": "documented_summary",
+    "text": "En août 2026, NKT a achevé la pose de 65 km de câbles au large de la Biscaye à l’aide du navire Victoria, première campagne de cette section espagnole.",
+    "source_id": "source_0014",
+    "source_status": "direct_web",
+    "published_at": "2026-09-21",
+    "accessed_at": "2026-11-10",
+    "location": "Red Eléctrica, visite du 21 septembre",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_07",
+    "type": "documented_summary",
+    "text": "Une seconde campagne de pose de 50 km a été achevée en septembre 2026 en eaux biscaïennes par Prysmian et son navire Monna Lisa. L’ensemble des câbles de la zone biscaïenne est posé, mais les tronçons du Gipuzkoa et des eaux françaises restent au calendrier.",
+    "source_id": "source_0013",
+    "source_status": "direct_web",
+    "published_at": "2026-10-29",
+    "accessed_at": "2026-11-10",
+    "location": "Red Eléctrica, deuxième campagne en Biscaye",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_08",
+    "type": "documented_summary",
+    "text": "Red Eléctrica débute en octobre 2026 la pose de 13 km de câble terrestre HVDC de la station de Gatika à l’atterrage de Lemoiz. Les opérations se poursuivent, sans achèvement annoncé.",
+    "source_id": "source_0013",
+    "source_status": "direct_web",
+    "published_at": "2026-10-29",
+    "accessed_at": "2026-11-10",
+    "location": "Red Eléctrica, rubrique Tendido subterraneo",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_09",
+    "type": "documented_summary",
+    "text": "Le programme espagnol comprend la dépose future de deux lignes aériennes totalisant environ 10 km entre Gatika et Lemoiz, annoncée comme un bénéfice environnemental prévu.",
+    "source_id": "source_0013",
+    "source_status": "direct_web",
+    "published_at": "2026-10-29",
+    "accessed_at": "2026-11-10",
+    "location": "Red Eléctrica, rubrique desmantelamiento",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_10",
+    "type": "documented_summary",
+    "text": "RTE annonce le 28 mai 2026 la première campagne de pose en mer démarrée le 25 mai au large de Capbreton par Prysmian PowerLink et le navire Monna Lisa : environ 12 km réalisés au moment du communiqué.",
+    "source_id": "source_0017",
+    "source_status": "direct_web",
+    "published_at": "2026-05-28",
+    "accessed_at": "2026-11-10",
+    "location": "RTE, communiqué du 28 mai",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_11",
+    "type": "documented_summary",
+    "text": "Sur la section française, RTE annonce les micro-tunnels achevés; les câbles sont déroulés à l’intérieur depuis mai 2026, des jonctions et travaux souterrains se poursuivent jusqu’à l’été 2027. La station de Cubnezais voit démarrer le montage des équipements.",
+    "source_id": "source_0012",
+    "source_status": "direct_web",
+    "published_at": null,
+    "accessed_at": "2026-11-10",
+    "location": "RTE, page projet, travaux à terre",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_12",
+    "type": "documented_summary",
+    "text": "RTE annonce la mise en service de l’interconnexion au début de 2028, sous réserve de l’achèvement des travaux, essais et stations. Ce calendrier reste une prévision.",
+    "source_id": "source_0012",
+    "source_status": "direct_web",
+    "published_at": null,
+    "accessed_at": "2026-11-10",
+    "location": "RTE, page projet, calendrier",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_13",
+    "type": "documented_summary",
+    "text": "Selon le reportage de Vert du 23 octobre 2025, Stop THT 40 s'oppose au tracé retenu, dénonce les impacts sur les milieux landais et demande la suspension des travaux pour étudier des alternatives. Jérôme Rieu, représentant RTE, conteste le terme « écocide » et fait valoir les contraintes techniques du projet.",
+    "source_id": "source_0011",
+    "source_status": "direct_web",
+    "published_at": "2025-10-23",
+    "accessed_at": "2026-11-10",
+    "location": "Vert, reportage du 23 octobre 2025",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_14",
+    "type": "documented_summary",
+    "text": "Selon Sud Ouest (texte transmis), Landes Atlantique Environnement et la SEPANSO 40 ont déposé une plainte contre X sur l'origine du nématode du pin. RTE nie tout lien causal prouvé avec son chantier; cette plainte ne démontre ni l'identité d'un responsable ni une contamination due à RTE.",
+    "source_id": "source_0022",
+    "source_status": "excel_reproduced",
+    "published_at": null,
+    "accessed_at": "2026-11-10",
+    "location": "Sud Ouest, nématode, texte du classeur",
+    "certainty": "medium"
+  },
+  {
+    "id": "evidence_gas_20261110_15",
+    "type": "documented_summary",
+    "text": "Les autorités annoncent une détection confirmée du nématode du pin à Angresse le 17 mars 2026 après un premier foyer à Seignosse en novembre 2025, et des mesures de confinement. L'origine des foyers n'est pas établie par ce communiqué.",
+    "source_id": "source_0020",
+    "source_status": "direct_web",
+    "published_at": "2026-03-18",
+    "accessed_at": "2026-11-10",
+    "location": "Préfecture, communiqué du 18 mars 2026",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_16",
+    "type": "documented_summary",
+    "text": "Une baleine à bec de Cuvier d’environ 3,50 m est morte après échouage à Capbreton le 28 mai 2026. La préfecture annonce l’intervention de l’observatoire Pelagis et des analyses pour rechercher les causes, sans établir à ce stade un lien avec les opérations de pose des câbles.",
+    "source_id": "source_0021",
+    "source_status": "direct_web",
+    "published_at": "2026-05-29",
+    "accessed_at": "2026-11-10",
+    "location": "Préfecture, communiqué du 29 mai 2026",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_17",
+    "type": "documented_summary",
+    "text": "Le 5 juin 2026, le préfet des Landes préside la 5e réunion du comité de suivi environnemental, réunissant administrations, élus et représentants associatifs. Il annonce des contrôles en mer sur les mesures de protection des mammifères marins, avec des observateurs embarqués.",
+    "source_id": "source_0019",
+    "source_status": "direct_web",
+    "published_at": "2026-06-05",
+    "accessed_at": "2026-11-10",
+    "location": "Préfecture, bilan du CSE",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_18",
+    "type": "documented_summary",
+    "text": "La CGT demande le retrait de navires de surveillance Van Laar participant au chantier, au motif d’allégations d'insuffisances de sécurité. Van Laar conteste les critiques et soutient que ses navires sont certifiés, inspectés et que son intervention est indirecte. Aucun manquement établi contradictoirement n’est démontré par cet article.",
+    "source_id": "source_0008",
+    "source_status": "direct_web",
+    "published_at": "2026-06-10",
+    "accessed_at": "2026-11-10",
+    "location": "Mer et Marine, réponse Van Laar",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_19",
+    "type": "documented_summary",
+    "text": "Paul Watson participe le 27 avril 2025 à une conférence organisée par Stop THT 40 à Seignosse. Lamya Essemlali, présentée comme présidente de Sea Shepherd France, critique dans cet événement une politique énergétique qui selon elle sacrifie le vivant. Ce fait ne suffit pas à qualifier la position officielle de l’ensemble des structures associées.",
+    "source_id": "source_0023",
+    "source_status": "excel_reproduced",
+    "published_at": "2025-04-27",
+    "accessed_at": "2026-11-10",
+    "location": "Sud Ouest, conférence 27 avril 2025 (texte Excel)",
+    "certainty": "medium"
+  },
+  {
+    "id": "evidence_gas_20261110_20",
+    "type": "documented_summary",
+    "text": "En janvier 2024, Sud Ouest rapporte une procédure de référé-suspension engagée par SEPANSO Landes et une association appelée « Landes Aquitaine Environnement » contre la déclaration d'utilité publique. L'identité juridique de cette dernière avec « Landes Atlantique Environnement » n'est pas établie.",
+    "source_id": "source_0024",
+    "source_status": "excel_reproduced",
+    "published_at": "2024-01-23",
+    "accessed_at": "2026-11-10",
+    "location": "Sud Ouest, recours contre la DUP (texte Excel)",
+    "certainty": "medium"
+  },
+  {
+    "id": "evidence_gas_20261110_21",
+    "type": "documented_summary",
+    "text": "RTE indique qu’un arrêté ministériel du 22 septembre 2023, publié au Journal officiel le 29 septembre 2023, a déclaré d’utilité publique la partie française de la double liaison du Golfe de Gascogne.",
+    "source_id": "source_0029",
+    "source_status": "direct_web",
+    "published_at": "2023-09-29",
+    "accessed_at": "2026-11-10",
+    "location": "RTE, annonce de la DUP",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_22",
+    "type": "documented_summary",
+    "text": "L'avis du CNPN daté du 22 août 2022 était défavorable au dossier de dérogation espèces protégées examiné alors, en raison notamment d’insuffisances de choix du tracé, d’évaluation de biodiversité marine et de mesures ERC. Avis consultatif historique, antérieur aux autorisations obtenues en 2023.",
+    "source_id": "source_0028",
+    "source_status": "web_pdf_text_only",
+    "published_at": "2022-08-22",
+    "accessed_at": "2026-11-10",
+    "location": "CNPN, avis, conclusion (texte PDF accessible)",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_23",
+    "type": "documented_summary",
+    "text": "RTE présente en mai 2025 les premiers travaux de la station de Cubnezais; les sociétés NKT, Prysmian, le consortium FASSET et le consortium Hitachi Energy/Vinci sont présentés comme prestataires, distincts des co-maîtres d’ouvrage INELFE / RTE / Red Eléctrica.",
+    "source_id": "source_0026",
+    "source_status": "direct_web",
+    "published_at": "2025-05-16",
+    "accessed_at": "2026-11-10",
+    "location": "RTE, communiqué première pierre",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_24",
+    "type": "documented_summary",
+    "text": "RTE présente Ludivine Mellier comme directrice du programme interconnexions et Ramon Granadino Goenechea comme responsable de la planification et du développement des infrastructures chez Red Eléctrica. Ces personnes commentent les objectifs du projet.",
+    "source_id": "source_0027",
+    "source_status": "direct_web",
+    "published_at": null,
+    "accessed_at": "2026-11-10",
+    "location": "RTE, vidéo de présentation, transcription",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_25",
+    "type": "documented_summary",
+    "text": "Jérôme Rieu est cité par Vert comme délégué régional Sud-Ouest de RTE en octobre 2025 et répond publiquement aux critiques formulées par Stop THT 40 sur le tracé landais.",
+    "source_id": "source_0011",
+    "source_status": "direct_web",
+    "published_at": "2025-10-23",
+    "accessed_at": "2026-11-10",
+    "location": "Vert, reportage",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_26",
+    "type": "documented_summary",
+    "text": "En mai 2025, Xavier Piechaczyk, alors président du directoire de RTE, défend publiquement les bénéfices de l’interconnexion, en présence de Roberto García Merino, dirigeant de Redeia, lors de la première pierre de la station de Cubnezais.",
+    "source_id": "source_0026",
+    "source_status": "direct_web",
+    "published_at": "2025-05-16",
+    "accessed_at": "2026-11-10",
+    "location": "RTE, inauguration de la station",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_27",
+    "type": "documented_summary",
+    "text": "Le préfet des Landes Gilles Clavreul préside en juin 2026 le comité de suivi environnemental et appelle au dialogue territorial. Ce suivi institutionnel ne démontre pas un engagement partisan du préfet en faveur du tracé.",
+    "source_id": "source_0019",
+    "source_status": "direct_web",
+    "published_at": "2026-06-05",
+    "accessed_at": "2026-11-10",
+    "location": "Préfecture, réunion CSE",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_28",
+    "type": "documented_summary",
+    "text": "Des militants écologistes surnommés « écureuils » se sont installés dans les arbres à Soorts-Hossegor à partir du 4 janvier 2025 pour protester contre les travaux de la ligne. Certains se réclamaient d’Extinction Rebellion; cela ne prouve pas une participation officielle de l’organisation.",
+    "source_id": "source_0025",
+    "source_status": "excel_reproduced",
+    "published_at": "2025-01-06",
+    "accessed_at": "2026-11-10",
+    "location": "Actu.fr, reportage militants perchés",
+    "certainty": "medium"
+  },
+  {
+    "id": "evidence_gas_20261110_29",
+    "type": "documented_summary",
+    "text": "Sud Ouest rapporte que la cour d'appel de Pau a confirmé en janvier 2025 une décision ayant imposé des garanties sur les nuisances sonores de campagnes de sondages sous-marins. L'arrêt cité ne prouve pas que toutes les étapes du chantier auraient été suspendues.",
+    "source_id": "source_0030",
+    "source_status": "excel_reproduced",
+    "published_at": "2025-01-29",
+    "accessed_at": "2026-11-10",
+    "location": "Sud Ouest, compte rendu de justice (texte Excel)",
+    "certainty": "medium"
+  },
+  {
+    "id": "evidence_gas_20261110_30",
+    "type": "documented_summary",
+    "text": "Le communiqué espagnol du 29 octobre décrit la collaboration du gestionnaire Red Eléctrica avec le centre spécialisé AZTI pour des programmes de suivi écologique marin et de protection des mammifères marins et des poissons.",
+    "source_id": "source_0013",
+    "source_status": "direct_web",
+    "published_at": "2026-10-29",
+    "accessed_at": "2026-11-10",
+    "location": "Red Eléctrica, partenariat AZTI",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_31",
+    "type": "documented_summary",
+    "text": "Lors de la visite du 21 septembre 2026 sur le chantier à Gatika, Joan Groizard, Roberto García Merino, Mikel Jauregi et María Soledad Garmendia sont cités dans leurs fonctions institutionnelles respectives. Leur participation ne prouve aucune décision additionnelle d'autorisation.",
+    "source_id": "source_0014",
+    "source_status": "direct_web",
+    "published_at": "2026-09-21",
+    "accessed_at": "2026-11-10",
+    "location": "Red Eléctrica, délégation institutionnelle",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_32",
+    "type": "documented_summary",
+    "text": "3CS indique avoir modélisé la mise à la terre et les cheminements de câbles dans les bâtiments de la station de conversion de Cubnezais. Il s'agit d'une prestation technique identifiée par la société, non de la maîtrise d'ouvrage.",
+    "source_id": "source_0032",
+    "source_status": "direct_web",
+    "published_at": "2026-09-29",
+    "accessed_at": "2026-11-10",
+    "location": "3CS, retour d’expérience projet",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_33",
+    "type": "documented_summary",
+    "text": "INELFE précise que le projet bénéficie d'une reconnaissance comme projet d'intérêt commun, d'une concertation préalable et de deux enquêtes publiques côté français. Cette fiche présente des projections qu'il faut lire à leur date.",
+    "source_id": "source_0018",
+    "source_status": "direct_web",
+    "published_at": "2026-10-01",
+    "accessed_at": "2026-11-10",
+    "location": "INELFE, fiche générale du projet",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_34",
+    "type": "documented_summary",
+    "text": "Selon un article Sud Ouest fourni, Stop THT 40 poursuit des actions de mobilisation sur les plages landaises en juillet 2026, sans que la tenue de nouvelles manifestations soit déduite des publications Facebook sans contenu utilisable.",
+    "source_id": "source_0010",
+    "source_status": "excel_reproduced",
+    "published_at": null,
+    "accessed_at": "2026-11-10",
+    "location": "Sud Ouest, mobilisation (texte Excel)",
+    "certainty": "medium"
+  },
+  {
+    "id": "evidence_gas_20261110_35",
+    "type": "documented_summary",
+    "text": "Le premier foyer confirmé de nématode du pin en France est documenté à Seignosse en novembre 2025 par les services de l’État ; organisme de quarantaine prioritaire. Ce document ne met en cause aucun chantier en particulier.",
+    "source_id": "source_0034",
+    "source_status": "direct_web",
+    "published_at": "2025-11-05",
+    "accessed_at": "2026-11-10",
+    "location": "Préfecture, détection phytosanitaire",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_36",
+    "type": "documented_summary",
+    "text": "À Gatika, les travaux de génie civil de la station de conversion sont déclarés terminés, le montage électromécanique étant en cours fin octobre 2026.",
+    "source_id": "source_0013",
+    "source_status": "direct_web",
+    "published_at": "2026-10-29",
+    "accessed_at": "2026-11-10",
+    "location": "Red Eléctrica, état de Gatika",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_gas_20261110_37",
+    "type": "documented_summary",
+    "text": "Une hausse de budget de 1,75 à 2,85 Md€ est documentée par l'accord des régulateurs en mars 2023, avec une provision de risque distincte de 250 M€; ce n'est pas un nouveau dérapage survenu en 2026.",
+    "source_id": "source_0016",
+    "source_status": "direct_web",
+    "published_at": "2023-03-02",
+    "accessed_at": "2026-11-10",
+    "location": "CRE, communication régulatoire",
+    "certainty": "high"
   }
 ]

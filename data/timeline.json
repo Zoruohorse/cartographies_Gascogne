@@ -1,0 +1,906 @@
+[
+  {
+    "id": "timeline_gas_entity_0001",
+    "actor_id": "entity_0001",
+    "event_type": "first_documented_appearance",
+    "date": "2022-08-22",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0028"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_22"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "L'avis du CNPN daté du 22 août 2022 était défavorable au dossier de dérogation espèces protégées examiné alors, en raison notamment d’insuffisances de choix du tracé, d’évaluation de biodiversité marine et de mesures ERC. Avis consultatif historique, antérieur aux autorisations obtenues en 2023.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0002",
+    "actor_id": "entity_0002",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-21",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0014"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_31"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "Lors de la visite du 21 septembre 2026 sur le chantier à Gatika, Joan Groizard, Roberto García Merino, Mikel Jauregi et María Soledad Garmendia sont cités dans leurs fonctions institutionnelles respectives. Leur participation ne prouve aucune décision additionnelle d'autorisation.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0003",
+    "actor_id": "entity_0003",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "favorable",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Date de première pièce attribuable non établie; acteur exclu du graphique.",
+    "summary": "INELFE, coentreprise 50/50 de RTE et Red Eléctrica pour le développement de l'interconnexion.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0004",
+    "actor_id": "entity_0004",
+    "event_type": "first_documented_appearance",
+    "date": "2023-03-02",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "context",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0016"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_03"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "La CRE et la CNMC évaluent le coût prévisionnel 2023 à 2,85 Md€ avec une enveloppe pour risques de 250 M€, contre 1,75 Md€ prévu en 2017. Une subvention européenne de 578 M€ est distincte des prêts BEI.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0005",
+    "actor_id": "entity_0005",
+    "event_type": "first_documented_appearance",
+    "date": "2025-06-16",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "context",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0015"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_02"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "La BEI annonce le 16 juin 2025 un soutien sous forme de prêts d’un montant engagé allant jusqu’à 1,6 Md€, avec premières tranches de 1,2 Md€ signées; cette dette ne constitue pas une subvention.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0006",
+    "actor_id": "entity_0006",
+    "event_type": "first_documented_appearance",
+    "date": "2025-05-16",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "context",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0026"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_23"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "RTE présente en mai 2025 les premiers travaux de la station de Cubnezais; les sociétés NKT, Prysmian, le consortium FASSET et le consortium Hitachi Energy/Vinci sont présentés comme prestataires, distincts des co-maîtres d’ouvrage INELFE / RTE / Red Eléctrica.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0007",
+    "actor_id": "entity_0007",
+    "event_type": "first_documented_appearance",
+    "date": "2025-05-16",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "context",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0026"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_23"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "RTE présente en mai 2025 les premiers travaux de la station de Cubnezais; les sociétés NKT, Prysmian, le consortium FASSET et le consortium Hitachi Energy/Vinci sont présentés comme prestataires, distincts des co-maîtres d’ouvrage INELFE / RTE / Red Eléctrica.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0008",
+    "actor_id": "entity_0008",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-10",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "context",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0008"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_18"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "La CGT demande le retrait de navires de surveillance Van Laar participant au chantier, au motif d’allégations d'insuffisances de sécurité. Van Laar conteste les critiques et soutient que ses navires sont certifiés, inspectés et que son intervention est indirecte. Aucun manquement établi contradictoirement n’est démontré par cet article.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0009",
+    "actor_id": "entity_0009",
+    "event_type": "first_documented_appearance",
+    "date": "2025-04-27",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "opposants",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0023"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_19"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "Paul Watson participe le 27 avril 2025 à une conférence organisée par Stop THT 40 à Seignosse. Lamya Essemlali, présentée comme présidente de Sea Shepherd France, critique dans cet événement une politique énergétique qui selon elle sacrifie le vivant. Ce fait ne suffit pas à qualifier la position officielle de l’ensemble des structures associées.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0010",
+    "actor_id": "entity_0010",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "opposants",
+    "stance": "opposed",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Date de première pièce attribuable non établie; acteur exclu du graphique.",
+    "summary": "Landes Atlantique Environnement a demandé une enquête sur l'origine du nématode du pin; aucune causalité RTE démontrée.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0011",
+    "actor_id": "entity_0011",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "opposants",
+    "stance": "opposed",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Date de première pièce attribuable non établie; acteur exclu du graphique.",
+    "summary": "SEPANSO 40 engagée dans des procédures administratives et critiques environnementales, notamment autour du nématode du pin et de l'interconnexion.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0013",
+    "actor_id": "entity_0013",
+    "event_type": "first_documented_appearance",
+    "date": "2025-04-27",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "opposants",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0023"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_19"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "Paul Watson participe le 27 avril 2025 à une conférence organisée par Stop THT 40 à Seignosse. Lamya Essemlali, présentée comme présidente de Sea Shepherd France, critique dans cet événement une politique énergétique qui selon elle sacrifie le vivant. Ce fait ne suffit pas à qualifier la position officielle de l’ensemble des structures associées.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0014",
+    "actor_id": "entity_0014",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-10",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "opposants",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0008"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_18"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "La CGT demande le retrait de navires de surveillance Van Laar participant au chantier, au motif d’allégations d'insuffisances de sécurité. Van Laar conteste les critiques et soutient que ses navires sont certifiés, inspectés et que son intervention est indirecte. Aucun manquement établi contradictoirement n’est démontré par cet article.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0015",
+    "actor_id": "entity_0015",
+    "event_type": "first_documented_appearance",
+    "date": "2025-10-23",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "opposants",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0011"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_13"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "Selon le reportage de Vert du 23 octobre 2025, Stop THT 40 s'oppose au tracé retenu, dénonce les impacts sur les milieux landais et demande la suspension des travaux pour étudier des alternatives. Jérôme Rieu, représentant RTE, conteste le terme « écocide » et fait valoir les contraintes techniques du projet.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0016",
+    "actor_id": "entity_0016",
+    "event_type": "first_documented_appearance",
+    "date": "2025-04-27",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "opposants",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0023"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_19"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "Paul Watson participe le 27 avril 2025 à une conférence organisée par Stop THT 40 à Seignosse. Lamya Essemlali, présentée comme présidente de Sea Shepherd France, critique dans cet événement une politique énergétique qui selon elle sacrifie le vivant. Ce fait ne suffit pas à qualifier la position officielle de l’ensemble des structures associées.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0018",
+    "actor_id": "entity_0018",
+    "event_type": "first_documented_appearance",
+    "date": "2025-04-27",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "opposants",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0023"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_19"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "Paul Watson participe le 27 avril 2025 à une conférence organisée par Stop THT 40 à Seignosse. Lamya Essemlali, présentée comme présidente de Sea Shepherd France, critique dans cet événement une politique énergétique qui selon elle sacrifie le vivant. Ce fait ne suffit pas à qualifier la position officielle de l’ensemble des structures associées.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0020",
+    "actor_id": "entity_0020",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-10",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "opposants",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0008"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_18"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "La CGT demande le retrait de navires de surveillance Van Laar participant au chantier, au motif d’allégations d'insuffisances de sécurité. Van Laar conteste les critiques et soutient que ses navires sont certifiés, inspectés et que son intervention est indirecte. Aucun manquement établi contradictoirement n’est démontré par cet article.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0021",
+    "actor_id": "entity_0021",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-10",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "context",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0008"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_18"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "La CGT demande le retrait de navires de surveillance Van Laar participant au chantier, au motif d’allégations d'insuffisances de sécurité. Van Laar conteste les critiques et soutient que ses navires sont certifiés, inspectés et que son intervention est indirecte. Aucun manquement établi contradictoirement n’est démontré par cet article.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0024",
+    "actor_id": "entity_0024",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-10",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "context",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0008"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_18"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "La CGT demande le retrait de navires de surveillance Van Laar participant au chantier, au motif d’allégations d'insuffisances de sécurité. Van Laar conteste les critiques et soutient que ses navires sont certifiés, inspectés et que son intervention est indirecte. Aucun manquement établi contradictoirement n’est démontré par cet article.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0026",
+    "actor_id": "entity_0026",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-05",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "context",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0019"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_17"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "Le 5 juin 2026, le préfet des Landes préside la 5e réunion du comité de suivi environnemental, réunissant administrations, élus et représentants associatifs. Il annonce des contrôles en mer sur les mesures de protection des mammifères marins, avec des observateurs embarqués.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0029",
+    "actor_id": "entity_0029",
+    "event_type": "first_documented_appearance",
+    "date": "2025-10-23",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0011"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_25"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "Jérôme Rieu est cité par Vert comme délégué régional Sud-Ouest de RTE en octobre 2025 et répond publiquement aux critiques formulées par Stop THT 40 sur le tracé landais.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0031",
+    "actor_id": "entity_0031",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Date de première pièce attribuable non établie; acteur exclu du graphique.",
+    "summary": "Ludivine Mellier, directrice du programme interconnexions chez RTE dans la présentation institutionnelle du projet.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0033",
+    "actor_id": "entity_0033",
+    "event_type": "first_documented_appearance",
+    "date": "2025-05-16",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0026"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_26"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "En mai 2025, Xavier Piechaczyk, alors président du directoire de RTE, défend publiquement les bénéfices de l’interconnexion, en présence de Roberto García Merino, dirigeant de Redeia, lors de la première pierre de la station de Cubnezais.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0034",
+    "actor_id": "entity_0034",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Date de première pièce attribuable non établie; acteur exclu du graphique.",
+    "summary": "Ramon Granadino Goenechea, directeur de la planification et des installations chez Red Eléctrica, interrogé dans la présentation RTE.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0052",
+    "actor_id": "entity_0052",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-05",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "context",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0019"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_27"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "Le préfet des Landes Gilles Clavreul préside en juin 2026 le comité de suivi environnemental et appelle au dialogue territorial. Ce suivi institutionnel ne démontre pas un engagement partisan du préfet en faveur du tracé.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0053",
+    "actor_id": "entity_0053",
+    "event_type": "first_documented_appearance",
+    "date": "2022-08-22",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "context",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0028"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_22"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "L'avis du CNPN daté du 22 août 2022 était défavorable au dossier de dérogation espèces protégées examiné alors, en raison notamment d’insuffisances de choix du tracé, d’évaluation de biodiversité marine et de mesures ERC. Avis consultatif historique, antérieur aux autorisations obtenues en 2023.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0054",
+    "actor_id": "entity_0054",
+    "event_type": "first_documented_appearance",
+    "date": "2023-09-29",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "context",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0029"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_21"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "RTE indique qu’un arrêté ministériel du 22 septembre 2023, publié au Journal officiel le 29 septembre 2023, a déclaré d’utilité publique la partie française de la double liaison du Golfe de Gascogne.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0055",
+    "actor_id": "entity_0055",
+    "event_type": "first_documented_appearance",
+    "date": "2023-09-29",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "context",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0029"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_21"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "RTE indique qu’un arrêté ministériel du 22 septembre 2023, publié au Journal officiel le 29 septembre 2023, a déclaré d’utilité publique la partie française de la double liaison du Golfe de Gascogne.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0056",
+    "actor_id": "entity_0056",
+    "event_type": "first_documented_appearance",
+    "date": "2024-01-23",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "opposants",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0024"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_20"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "En janvier 2024, Sud Ouest rapporte une procédure de référé-suspension engagée par SEPANSO Landes et une association appelée « Landes Aquitaine Environnement » contre la déclaration d'utilité publique. L'identité juridique de cette dernière avec « Landes Atlantique Environnement » n'est pas établie.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0057",
+    "actor_id": "entity_0057",
+    "event_type": "first_documented_appearance",
+    "date": "2024-01-23",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "context",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0024"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_20"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "En janvier 2024, Sud Ouest rapporte une procédure de référé-suspension engagée par SEPANSO Landes et une association appelée « Landes Aquitaine Environnement » contre la déclaration d'utilité publique. L'identité juridique de cette dernière avec « Landes Atlantique Environnement » n'est pas établie.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0063",
+    "actor_id": "entity_0063",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-29",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "context",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0021"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_16"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "Une baleine à bec de Cuvier d’environ 3,50 m est morte après échouage à Capbreton le 28 mai 2026. La préfecture annonce l’intervention de l’observatoire Pelagis et des analyses pour rechercher les causes, sans établir à ce stade un lien avec les opérations de pose des câbles.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0064",
+    "actor_id": "entity_0064",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-05",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "context",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0019"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_17"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "Le 5 juin 2026, le préfet des Landes préside la 5e réunion du comité de suivi environnemental, réunissant administrations, élus et représentants associatifs. Il annonce des contrôles en mer sur les mesures de protection des mammifères marins, avec des observateurs embarqués.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0065",
+    "actor_id": "entity_0065",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-05",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "context",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0019"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_17"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "Le 5 juin 2026, le préfet des Landes préside la 5e réunion du comité de suivi environnemental, réunissant administrations, élus et représentants associatifs. Il annonce des contrôles en mer sur les mesures de protection des mammifères marins, avec des observateurs embarqués.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0066",
+    "actor_id": "entity_0066",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-05",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "context",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0019"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_17"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "Le 5 juin 2026, le préfet des Landes préside la 5e réunion du comité de suivi environnemental, réunissant administrations, élus et représentants associatifs. Il annonce des contrôles en mer sur les mesures de protection des mammifères marins, avec des observateurs embarqués.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0067",
+    "actor_id": "entity_0067",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-05",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "context",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0019"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_17"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "Le 5 juin 2026, le préfet des Landes préside la 5e réunion du comité de suivi environnemental, réunissant administrations, élus et représentants associatifs. Il annonce des contrôles en mer sur les mesures de protection des mammifères marins, avec des observateurs embarqués.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0068",
+    "actor_id": "entity_0068",
+    "event_type": "first_documented_appearance",
+    "date": "2022-08-22",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "context",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0028"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_22"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "L'avis du CNPN daté du 22 août 2022 était défavorable au dossier de dérogation espèces protégées examiné alors, en raison notamment d’insuffisances de choix du tracé, d’évaluation de biodiversité marine et de mesures ERC. Avis consultatif historique, antérieur aux autorisations obtenues en 2023.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0070",
+    "actor_id": "entity_0070",
+    "event_type": "first_documented_appearance",
+    "date": "2026-10-29",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "context",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0013"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_30"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "Le communiqué espagnol du 29 octobre décrit la collaboration du gestionnaire Red Eléctrica avec le centre spécialisé AZTI pour des programmes de suivi écologique marin et de protection des mammifères marins et des poissons.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0071",
+    "actor_id": "entity_0071",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-21",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "context",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0014"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_31"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "Lors de la visite du 21 septembre 2026 sur le chantier à Gatika, Joan Groizard, Roberto García Merino, Mikel Jauregi et María Soledad Garmendia sont cités dans leurs fonctions institutionnelles respectives. Leur participation ne prouve aucune décision additionnelle d'autorisation.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0072",
+    "actor_id": "entity_0072",
+    "event_type": "first_documented_appearance",
+    "date": "2025-05-16",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0026"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_26"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "En mai 2025, Xavier Piechaczyk, alors président du directoire de RTE, défend publiquement les bénéfices de l’interconnexion, en présence de Roberto García Merino, dirigeant de Redeia, lors de la première pierre de la station de Cubnezais.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0073",
+    "actor_id": "entity_0073",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-21",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "context",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0014"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_31"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "Lors de la visite du 21 septembre 2026 sur le chantier à Gatika, Joan Groizard, Roberto García Merino, Mikel Jauregi et María Soledad Garmendia sont cités dans leurs fonctions institutionnelles respectives. Leur participation ne prouve aucune décision additionnelle d'autorisation.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0074",
+    "actor_id": "entity_0074",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-21",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "context",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0014"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_31"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "Lors de la visite du 21 septembre 2026 sur le chantier à Gatika, Joan Groizard, Roberto García Merino, Mikel Jauregi et María Soledad Garmendia sont cités dans leurs fonctions institutionnelles respectives. Leur participation ne prouve aucune décision additionnelle d'autorisation.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_gas_entity_0075",
+    "actor_id": "entity_0075",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-29",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0032"
+    ],
+    "evidence_ids": [
+      "evidence_gas_20261110_32"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première pièce datée retrouvée dans le corpus qualifié, pas première intervention historique avérée.",
+    "summary": "3CS indique avoir modélisé la mise à la terre et les cheminements de câbles dans les bâtiments de la station de conversion de Cubnezais. Il s'agit d'une prestation technique identifiée par la société, non de la maîtrise d'ouvrage.",
+    "is_aggregate": false,
+    "is_media": false
+  }
+]

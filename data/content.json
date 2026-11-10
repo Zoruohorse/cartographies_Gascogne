@@ -1,0 +1,296 @@
+{
+  "project_status": "Avancement global 70 % annoncé au 29 octobre 2026. Pose de deux tronçons marins au large de la Biscaye (65 + 50 km) et lancement de la pose terrestre Gatika–Lemoiz (13 km). Travaux complémentaires en France et au Gipuzkoa prévus en 2027. Mise en service visée début 2028.",
+  "project_summary": "Deux liaisons à courant continu de 1 000 MW chacune entre Cubnezais et Gatika, sur environ 400 km, dont près de 300 km en mer. Le chantier fait l'objet de contestations territoriales et environnementales; le CNPN avait donné un avis défavorable consultatif en 2022, avant l'obtention de la DUP en 2023.",
+  "fact_sheet": [
+    {
+      "id": "gascogne_fact_001",
+      "label": "Puissance des deux liaisons",
+      "value": "2 × 1 000 MW",
+      "qualifier": "Capacité nominale du nouvel ouvrage, non puissance de data center.",
+      "evidence_ids": [
+        "evidence_gas_20261110_04"
+      ]
+    },
+    {
+      "id": "gascogne_fact_002",
+      "label": "Capacité d'échange franco-espagnole",
+      "value": "2 800 → 5 000 MW",
+      "qualifier": "Capacité cumulée des interconnexions entre les deux pays, pas seulement du nouveau câble.",
+      "evidence_ids": [
+        "evidence_gas_20261110_04"
+      ]
+    },
+    {
+      "id": "gascogne_fact_003",
+      "label": "Longueur indicative de l'interconnexion",
+      "value": "≈ 400 km",
+      "qualifier": "Dont environ 300 km de tronçons sous-marins ; des périmètres différents produisent des longueurs déclarées distinctes.",
+      "evidence_ids": [
+        "evidence_gas_20261110_04"
+      ]
+    },
+    {
+      "id": "gascogne_fact_004",
+      "label": "Avancement global à fin octobre 2026",
+      "value": "70 %",
+      "qualifier": "Avancement du projet entier, pas de la pose de chaque segment ni d'essais de mise en service.",
+      "evidence_ids": [
+        "evidence_gas_20261110_05"
+      ]
+    },
+    {
+      "id": "gascogne_fact_005",
+      "label": "Câbles posés côté Biscaye",
+      "value": "65 km + 50 km",
+      "qualifier": "Deux campagnes 2026 par NKT puis Prysmian, secteur Biscaye seulement.",
+      "evidence_ids": [
+        "evidence_gas_20261110_06",
+        "evidence_gas_20261110_07"
+      ]
+    },
+    {
+      "id": "gascogne_fact_006",
+      "label": "Câbles terrestres Espagne",
+      "value": "13 km",
+      "qualifier": "De Gatika à Lemoiz, pose débutée en octobre 2026.",
+      "evidence_ids": [
+        "evidence_gas_20261110_08"
+      ]
+    },
+    {
+      "id": "gascogne_fact_007",
+      "label": "Budget de référence régulatoire 2023",
+      "value": "2,85 Md€ + 0,25 Md€ de risque",
+      "qualifier": "Ne pas confondre estimation, provision et montant réellement dépensé.",
+      "evidence_ids": [
+        "evidence_gas_20261110_03"
+      ]
+    },
+    {
+      "id": "gascogne_fact_008",
+      "label": "Prêts BEI annoncés",
+      "value": "1,6 Md€",
+      "qualifier": "Financement bancaire, distinct de 578 M€ de subvention européenne.",
+      "evidence_ids": [
+        "evidence_gas_20261110_02",
+        "evidence_gas_20261110_03"
+      ]
+    },
+    {
+      "id": "gascogne_fact_009",
+      "label": "Mise en service prévisionnelle",
+      "value": "Début 2028",
+      "qualifier": "Échéance RTE non acquise, soumise à la fin des travaux et aux essais.",
+      "evidence_ids": [
+        "evidence_gas_20261110_12"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "id": "gascogne_milestone_001",
+      "date": "2017-09-21",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Accord régulatoire initial",
+      "details": "Budget envisagé à 1,75 Md€ par les régulateurs.",
+      "evidence_ids": [
+        "evidence_gas_20261110_03"
+      ]
+    },
+    {
+      "id": "gascogne_milestone_002",
+      "date": "2022-08-22",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Avis défavorable du CNPN",
+      "details": "Critiques sur l'étude des espèces protégées, le tracé, les habitats et la séquence ERC.",
+      "evidence_ids": [
+        "evidence_gas_20261110_22"
+      ]
+    },
+    {
+      "id": "gascogne_milestone_003",
+      "date": "2023-03-02",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Revalorisation de l'investissement",
+      "details": "Budget prévisionnel porté à 2,85 Md€ avec provision pour risque de 250 M€.",
+      "evidence_ids": [
+        "evidence_gas_20261110_03"
+      ]
+    },
+    {
+      "id": "gascogne_milestone_004",
+      "date": "2023-09-22",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Déclaration d'utilité publique",
+      "details": "DUP de la partie française de la liaison, publiée au JO du 29 septembre.",
+      "evidence_ids": [
+        "evidence_gas_20261110_21"
+      ]
+    },
+    {
+      "id": "gascogne_milestone_005",
+      "date": "2023-10-01",
+      "period_precision": "month",
+      "status": "documented",
+      "title": "Démarrage des travaux terrestres en France",
+      "details": "Premières opérations de construction après autorisations.",
+      "evidence_ids": [
+        "evidence_gas_20261110_11",
+        "evidence_gas_20261110_21"
+      ]
+    },
+    {
+      "id": "gascogne_milestone_006",
+      "date": "2025-05-16",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Première pierre de Cubnezais",
+      "details": "Cérémonie autour de la station de conversion française, principaux industriels identifiés.",
+      "evidence_ids": [
+        "evidence_gas_20261110_23",
+        "evidence_gas_20261110_26"
+      ]
+    },
+    {
+      "id": "gascogne_milestone_007",
+      "date": "2025-06-16",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Financement majeur de la BEI",
+      "details": "Annonce de prêts à hauteur de 1,6 Md€, dont 1,2 Md€ de premières tranches signées.",
+      "evidence_ids": [
+        "evidence_gas_20261110_02"
+      ]
+    },
+    {
+      "id": "gascogne_milestone_008",
+      "date": "2026-03-18",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Nématode : détection à Angresse",
+      "details": "Les services de l'État confirment un nouveau foyer phytosanitaire à proximité de Seignosse.",
+      "evidence_ids": [
+        "evidence_gas_20261110_15"
+      ]
+    },
+    {
+      "id": "gascogne_milestone_009",
+      "date": "2026-05-25",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Début de la pose sous-marine française",
+      "details": "Pose en mer par Prysmian au large de Capbreton, début de campagne.",
+      "evidence_ids": [
+        "evidence_gas_20261110_10"
+      ]
+    },
+    {
+      "id": "gascogne_milestone_010",
+      "date": "2026-05-28",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Échouage à Capbreton",
+      "details": "Un cétacé s'échoue à Capbreton; Pelagis effectue des prélèvements; causalité avec les câbles indéterminée.",
+      "evidence_ids": [
+        "evidence_gas_20261110_16"
+      ]
+    },
+    {
+      "id": "gascogne_milestone_011",
+      "date": "2026-06-05",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Cinquième comité de suivi environnemental",
+      "details": "Préfecture, RTE, élus et associations discutent des mesures et contrôles en mer.",
+      "evidence_ids": [
+        "evidence_gas_20261110_17"
+      ]
+    },
+    {
+      "id": "gascogne_milestone_012",
+      "date": "2026-08-03",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Première phase espagnole de pose",
+      "details": "NKT entame la campagne en Biscaye, puis 65 km posés dans cette première phase.",
+      "evidence_ids": [
+        "evidence_gas_20261110_06"
+      ]
+    },
+    {
+      "id": "gascogne_milestone_013",
+      "date": "2026-09-21",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Avancement annoncé à 70 %",
+      "details": "Visite institutionnelle de Gatika; taux global d'avancement de 70 % confirmé.",
+      "evidence_ids": [
+        "evidence_gas_20261110_05",
+        "evidence_gas_20261110_06",
+        "evidence_gas_20261110_31"
+      ]
+    },
+    {
+      "id": "gascogne_milestone_014",
+      "date": "2026-10-29",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Deuxième campagne biscaïenne achevée",
+      "details": "50 km posés par Prysmian; câbles des zones biscaïennes en place, travaux ailleurs restant à réaliser.",
+      "evidence_ids": [
+        "evidence_gas_20261110_07"
+      ]
+    },
+    {
+      "id": "gascogne_milestone_015",
+      "date": "2026-10-29",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Début de la pose terrestre espagnole",
+      "details": "Début annoncé des 13 km entre Gatika et Lemoiz.",
+      "evidence_ids": [
+        "evidence_gas_20261110_08"
+      ]
+    },
+    {
+      "id": "gascogne_milestone_016",
+      "date": "2027-02-01",
+      "period_precision": "month",
+      "status": "forecast",
+      "title": "Poursuite du chantier en Gipuzkoa",
+      "details": "Travaux en mer prévus entre novembre 2026 et février 2027 au large du Gipuzkoa.",
+      "evidence_ids": [
+        "evidence_gas_20261110_07"
+      ]
+    },
+    {
+      "id": "gascogne_milestone_017",
+      "date": "2027-07-01",
+      "period_precision": "month",
+      "status": "forecast",
+      "title": "Fin prévisionnelle des campagnes maritimes",
+      "details": "Derniers tronçons en eaux françaises annoncés pour l'été 2027.",
+      "evidence_ids": [
+        "evidence_gas_20261110_07",
+        "evidence_gas_20261110_11"
+      ]
+    },
+    {
+      "id": "gascogne_milestone_018",
+      "date": "2028-01-01",
+      "period_precision": "year",
+      "status": "forecast",
+      "title": "Mise en service prévisionnelle",
+      "details": "RTE vise le début 2028 après essais ; aucune date ferme d'exploitation établie.",
+      "evidence_ids": [
+        "evidence_gas_20261110_12"
+      ]
+    }
+  ],
+  "methodology": "Chronologie datée par les preuves indépendantes du corpus. Dates sans précision exacte conservées avec précision month/year, sans faire passer un début de mois pour la date réelle. Les allégations du collectif, les déclarations de RTE, les actes administratifs et les décisions de justice sont distingués.",
+  "last_updated": "2026-11-10"
+}

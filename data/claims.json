@@ -6,13 +6,14 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "RTE est le porteur français du projet.",
+    "summary": "RTE porte la partie française, défend officiellement les bénéfices énergétiques du projet et poursuit les travaux.",
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_relation_0001"
+      "evidence_gas_20261110_01",
+      "evidence_gas_20261110_10"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10"
   },
   {
     "id": "claim_0002",
@@ -21,13 +22,14 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Red Eléctrica est le co-porteur espagnol.",
+    "summary": "Red Eléctrica coproduit la liaison et annonce les phases de chantier en Espagne.",
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_relation_0002"
+      "evidence_gas_20261110_01",
+      "evidence_gas_20261110_05"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10"
   },
   {
     "id": "claim_0003",
@@ -36,13 +38,14 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Inelfe assure la maîtrise d’ouvrage transfrontalière.",
+    "summary": "INELFE est la coentreprise de portage opérationnel du projet.",
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_relation_0003"
+      "evidence_gas_20261110_01",
+      "evidence_gas_20261110_33"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10"
   },
   {
     "id": "claim_0004",
@@ -51,13 +54,14 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Projet considéré comme d’intérêt commun européen.",
+    "summary": "La Commission européenne reconnaît le projet d’intérêt commun et lui apporte une subvention CEF; il s'agit d'un soutien institutionnel au projet.",
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_relation_0006"
+      "evidence_gas_20261110_03",
+      "evidence_gas_20261110_33"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10"
   },
   {
     "id": "claim_0005",
@@ -66,58 +70,13 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Soutien financier de 1,6 Md€.",
+    "summary": "La BEI apporte un financement en prêts, sans position sur le tracé local en tant que tel.",
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_relation_0007"
+      "evidence_gas_20261110_02"
     ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "claim_0006",
-    "subject_id": "entity_0006",
-    "project_id": "project_gascogne",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Prestataire technique pour la pose des câbles sous-marins.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_relation_0008"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "claim_0007",
-    "subject_id": "entity_0007",
-    "project_id": "project_gascogne",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Prestataire technique pour la pose des câbles sous-marins.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_relation_0009"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "claim_0008",
-    "subject_id": "entity_0008",
-    "project_id": "project_gascogne",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Fourniture de navires de surveillance.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_relation_0010"
-    ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10"
   },
   {
     "id": "claim_0009",
@@ -126,13 +85,14 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Principal collectif opposé au projet.",
+    "summary": "Stop THT 40 conteste le tracé retenu dans les Landes et demande sa réévaluation; opposition au tracé actuel, pas nécessairement au principe de l'interconnexion.",
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_relation_0011"
+      "evidence_gas_20261110_13",
+      "evidence_gas_20261110_34"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10"
   },
   {
     "id": "claim_0010",
@@ -141,13 +101,30 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Contestation environnementale.",
+    "summary": "Landes Atlantique Environnement conteste la conduite environnementale et cherche à faire examiner l'origine du nématode; l'implication de RTE n'est pas établie.",
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_relation_0012"
+      "evidence_gas_20261110_14",
+      "evidence_gas_20261110_20"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "claim_gas_20261110_01",
+    "subject_id": "entity_0011",
+    "project_id": "project_gascogne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "status": "reported",
+    "value": "opposed",
+    "summary": "SEPANSO 40 a engagé des démarches contestataires et contentieuses sur le tracé et l'environnement; ne pas inférer une preuve de pollution.",
+    "certainty": "high",
+    "evidence_ids": [
+      "evidence_gas_20261110_14",
+      "evidence_gas_20261110_20"
+    ],
+    "updated_at": "2026-11-10"
   },
   {
     "id": "claim_0011",
@@ -155,29 +132,14 @@
     "project_id": "project_gascogne",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Critique du projet et de ses impacts potentiels.",
+    "value": "neutral",
+    "summary": "La présidente de Sea Shepherd France critique les conséquences écologiques lors d'une conférence; la position formelle de l'organisation sur la réalisation du projet n'est pas établie.",
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_relation_0014"
+      "evidence_gas_20261110_19"
     ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "claim_0012",
-    "subject_id": "entity_0014",
-    "project_id": "project_gascogne",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Critique des conditions maritimes du chantier.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_relation_0015"
-    ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10"
   },
   {
     "id": "claim_0013",
@@ -186,58 +148,45 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Opposée au projet et à son tracé actuel.",
+    "summary": "Marie Darzacq critique le tracé terrestre et défend la demande d'examen d'alternatives.",
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_relation_0018"
+      "evidence_gas_20261110_13",
+      "evidence_gas_20261110_14",
+      "evidence_gas_20261110_34"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10"
   },
   {
-    "id": "claim_0014",
-    "subject_id": "entity_0025",
+    "id": "claim_gas_20261110_02",
+    "subject_id": "entity_0016",
     "project_id": "project_gascogne",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "favorable",
-    "summary": "Favorable à la poursuite du chantier sous contrôle environnemental.",
-    "certainty": "high",
     "status": "reported",
+    "value": "opposed",
+    "summary": "Lamya Essemlali exprime une critique environnementale de cette liaison dans une conférence d'opposants en 2025.",
+    "certainty": "high",
     "evidence_ids": [
-      "evidence_relation_0032"
+      "evidence_gas_20261110_19"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10"
   },
   {
-    "id": "claim_0015",
-    "subject_id": "entity_0026",
+    "id": "claim_gas_20261110_03",
+    "subject_id": "entity_0018",
     "project_id": "project_gascogne",
     "claim_type": "position",
     "topic": "position_globale",
+    "status": "reported",
     "value": "neutral",
-    "summary": "Suivi du chantier et contrôles complémentaires.",
+    "summary": "Paul Watson participe à une conférence organisée par des opposants en 2025; il ne suffit pas d'en déduire une position globale sur l'interconnexion.",
     "certainty": "high",
-    "status": "reported",
     "evidence_ids": [
-      "evidence_relation_0033"
+      "evidence_gas_20261110_19"
     ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "claim_0016",
-    "subject_id": "entity_0028",
-    "project_id": "project_gascogne",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "favorable",
-    "summary": "Favorable à l’électrification et à la réduction de la dépendance aux énergies fossiles.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_relation_0035"
-    ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10"
   },
   {
     "id": "claim_0017",
@@ -246,178 +195,13 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Défend les bénéfices énergétiques de l’interconnexion.",
+    "summary": "Xavier Piechaczyk défend les bénéfices énergétiques de la liaison dans ses fonctions chez RTE.",
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_relation_0041"
+      "evidence_gas_20261110_26"
     ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "claim_0018",
-    "subject_id": "entity_0039",
-    "project_id": "project_gascogne",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Information sur la baleine échouée.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_relation_0052"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "claim_0019",
-    "subject_id": "entity_0040",
-    "project_id": "project_gascogne",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Couverture du chantier et des échouages.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_relation_0053"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "claim_0020",
-    "subject_id": "entity_0041",
-    "project_id": "project_gascogne",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Reportages environnementaux.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_relation_0054"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "claim_0021",
-    "subject_id": "entity_0042",
-    "project_id": "project_gascogne",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Source majeure sur le conflit local.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_relation_0055"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "claim_0022",
-    "subject_id": "entity_0043",
-    "project_id": "project_gascogne",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Suivi du chantier et enjeux maritimes.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_relation_0056"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "claim_0023",
-    "subject_id": "entity_0044",
-    "project_id": "project_gascogne",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Suivi technique du projet.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_relation_0057"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "claim_0024",
-    "subject_id": "entity_0045",
-    "project_id": "project_gascogne",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Relais des critiques écologistes.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_relation_0058"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "claim_0025",
-    "subject_id": "entity_0046",
-    "project_id": "project_gascogne",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Analyse stratégique des infrastructures.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_relation_0059"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "claim_0026",
-    "subject_id": "entity_0047",
-    "project_id": "project_gascogne",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Source secondaire.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_relation_0060"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "claim_0027",
-    "subject_id": "entity_0048",
-    "project_id": "project_gascogne",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Analyse des interconnexions européennes.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_relation_0061"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "claim_0028",
-    "subject_id": "entity_0051",
-    "project_id": "project_gascogne",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Enquête du 13 juin 2026 sur le conflit local.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_relation_0066"
-    ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10"
   },
   {
     "id": "claim_0029",
@@ -426,13 +210,13 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Avis défavorable du 22 août 2022 cité dans le rapport.",
+    "summary": "Le CNPN émet un avis défavorable en août 2022 sur le dossier de dérogation espèces protégées; avis historique antérieur à la DUP obtenue en 2023.",
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_relation_0068"
+      "evidence_gas_20261110_22"
     ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10"
   },
   {
     "id": "claim_0030",
@@ -441,132 +225,12 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Le projet est présenté comme déclaré d’utilité publique par ce ministère.",
+    "summary": "Le ministère prononce la DUP du projet pour sa partie française en 2023 : soutien réglementaire historique, non garantie d'absence d'impacts.",
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_relation_0069"
+      "evidence_gas_20261110_21"
     ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "claim_0031",
-    "subject_id": "entity_0055",
-    "project_id": "project_gascogne",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "favorable",
-    "summary": "RTE indique qu’un avis favorable conforme a été émis et que les autorisations ont été signées.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_relation_0070"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "claim_0032",
-    "subject_id": "entity_0056",
-    "project_id": "project_gascogne",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Le rapport cite un recours contre les travaux à son initiative.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_relation_0072"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "claim_0033",
-    "subject_id": "entity_0064",
-    "project_id": "project_gascogne",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Le CSE est dédié aux travaux et aux engagements environnementaux de RTE.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_relation_0080"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "claim_0034",
-    "subject_id": "entity_0065",
-    "project_id": "project_gascogne",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "neutral",
-    "summary": "La DREAL est citée parmi les services de l’État assurant la supervision.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_relation_0082"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "claim_0035",
-    "subject_id": "entity_0066",
-    "project_id": "project_gascogne",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "neutral",
-    "summary": "La DDTM est citée parmi les services de l’État assurant la supervision.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_relation_0083"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "claim_0036",
-    "subject_id": "entity_0067",
-    "project_id": "project_gascogne",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "neutral",
-    "summary": "L’OFB est cité parmi les services de l’État assurant la supervision.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_relation_0084"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "claim_0037",
-    "subject_id": "entity_0068",
-    "project_id": "project_gascogne",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Sa surveillance est citée parmi les dispositifs de respect des prescriptions environnementales.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_relation_0086"
-    ],
-    "updated_at": "2026-10-06"
-  },
-  {
-    "id": "claim_0038",
-    "subject_id": "entity_0069",
-    "project_id": "project_gascogne",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Il explique l’impossibilité de faire passer des câbles dans le gouf de Capbreton.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_relation_0087"
-    ],
-    "updated_at": "2026-10-06"
+    "updated_at": "2026-11-10"
   }
 ]
