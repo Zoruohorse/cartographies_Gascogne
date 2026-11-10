@@ -1302,5 +1302,17 @@
     "errors": [],
     "duplicates": 0,
     "broken_references": 0
+  },
+  "quality_finalization": {
+    "date": "2026-11-10",
+    "unused_evidence": [],
+    "linked_existing_or_new": [
+      "evidence_gas_20261110_09",
+      "evidence_gas_20261110_28",
+      "evidence_gas_20261110_29",
+      "evidence_gas_20261110_36",
+      "evidence_gas_20261110_37"
+    ],
+    "note": "Rattachement des 5 preuves initialement orphelines à des faits, griefs ou jalons explicitement qualifiés."
   }
 }

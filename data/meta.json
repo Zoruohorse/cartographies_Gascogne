@@ -35,7 +35,8 @@
       "text": "Stop THT 40 critique le contournement terrestre du gouf de Capbreton et les impacts sur les forêts et zones humides; RTE conteste les qualifications les plus fortes et justifie ses choix par les contraintes techniques.",
       "evidence_ids": [
         "evidence_gas_20261110_13",
-        "evidence_gas_20261110_34"
+        "evidence_gas_20261110_34",
+        "evidence_gas_20261110_28"
       ],
       "source_ids": [
         "source_0011",
@@ -57,7 +58,8 @@
       "text": "En août 2022, le CNPN donne un avis défavorable sur le dossier espèces protégées. Le projet obtient ensuite une DUP en septembre 2023. L'avis consultatif historique et les actes administratifs ultérieurs ne doivent pas être confondus.",
       "evidence_ids": [
         "evidence_gas_20261110_22",
-        "evidence_gas_20261110_21"
+        "evidence_gas_20261110_21",
+        "evidence_gas_20261110_29"
       ],
       "source_ids": [
         "source_0028",
@@ -69,7 +71,8 @@
       "text": "En mars 2023, les régulateurs ont porté le budget prévisionnel de 1,75 à 2,85 Md€ avec 250 M€ de provision de risque; la BEI a par ailleurs annoncé 1,6 Md€ de prêts et l'UE 578 M€ de subventions, de nature différente.",
       "evidence_ids": [
         "evidence_gas_20261110_03",
-        "evidence_gas_20261110_02"
+        "evidence_gas_20261110_02",
+        "evidence_gas_20261110_37"
       ],
       "source_ids": [
         "source_0016",
@@ -89,6 +92,16 @@
         "source_0013",
         "source_0012"
       ]
+    },
+    {
+      "title": "🔈 Nuisances de sondages sous-marins et contentieux",
+      "text": "Sud Ouest rapporte en janvier 2025 une décision de la cour d'appel de Pau sur les nuisances sonores des sondages en mer, sans établir l'arrêt général du projet. La portée juridique de la décision est limitée aux mesures rapportées dans cet article.",
+      "evidence_ids": [
+        "evidence_gas_20261110_29"
+      ],
+      "source_ids": [
+        "source_0030"
+      ]
     }
   ],
   "vigilance": [
@@ -101,7 +114,8 @@
     "Écart entre l’avis défavorable consultatif du CNPN (2022), la DUP (2023) et les recours ultérieurs : distinguer nature et date de chaque acte.",
     "La CGT critique la sécurité de navires Van Laar, qui dément les allégations ; aucune responsabilité ou violation réglementaire n'est établie.",
     "Les noms Landes Atlantique Environnement et Landes Aquitaine Environnement ne sont pas fusionnés sans confirmation juridique.",
-    "Anonymes, homonymes et sources de presse ne sont pas représentés comme acteurs politiques sans preuve explicite."
+    "Anonymes, homonymes et sources de presse ne sont pas représentés comme acteurs politiques sans preuve explicite.",
+    "Une décision de justice relative aux nuisances de sondages sous-marins ne permet pas d'inférer l'annulation de toutes les autorisations de l'interconnexion."
   ],
   "source_descriptions": [
     "Énergies de la Mer : RTE a lancé la pose des câbles d’interconnexion électrique entre la France et l’Espagne — https://www.energiesdelamer.eu/2026/06/02/rte-a-lance-la-pose-des-cables-dinterconnexion-electrique-entre-la-france-et-lespagne-par-le-golfe-de-gascogne/",
@@ -173,6 +187,9 @@
     ],
     [
       "evidence_gas_20261110_13"
+    ],
+    [
+      "evidence_gas_20261110_29"
     ]
   ]
 }

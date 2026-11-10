@@ -84,6 +84,15 @@
       "evidence_ids": [
         "evidence_gas_20261110_12"
       ]
+    },
+    {
+      "id": "gascogne_fact_010",
+      "label": "Dépose programmée côté Espagne",
+      "value": "≈ 10 km",
+      "qualifier": "Suppression future annoncée de deux anciennes lignes aériennes entre Gatika et Lemoiz ; ne constitue pas un chantier achevé.",
+      "evidence_ids": [
+        "evidence_gas_20261110_09"
+      ]
     }
   ],
   "milestones": [
@@ -251,9 +260,10 @@
       "period_precision": "day",
       "status": "documented",
       "title": "Début de la pose terrestre espagnole",
-      "details": "Début annoncé des 13 km entre Gatika et Lemoiz.",
+      "details": "Début annoncé des 13 km entre Gatika et Lemoiz. Le génie civil de la station de conversion de Gatika est annoncé achevé, le montage électromécanique étant en cours.",
       "evidence_ids": [
-        "evidence_gas_20261110_08"
+        "evidence_gas_20261110_08",
+        "evidence_gas_20261110_36"
       ]
     },
     {

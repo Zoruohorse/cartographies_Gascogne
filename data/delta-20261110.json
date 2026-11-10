@@ -6849,7 +6849,33 @@
     "previous_updated": "2026-10-06",
     "new_updated": "2026-11-10",
     "old_status": "Acteurs, institutions, oppositions, expertises, médias et points de vigilance autour de l’interconnexion France–Espagne.",
-    "new_status": "Interconnexion France–Espagne 2 × 1 000 MW : avancement global de 70 % (29 octobre 2026), 115 km posés au large de la Biscaye, travaux programmés en 2027 et mise en service prévue en 2028."
+    "new_status": "Interconnexion France–Espagne 2 × 1 000 MW : avancement global de 70 % (29 octobre 2026), 115 km posés au large de la Biscaye, travaux programmés en 2027 et mise en service prévue en 2028.",
+    "new_fact_sheet_item": {
+      "id": "gascogne_fact_010",
+      "label": "Dépose programmée côté Espagne",
+      "value": "≈ 10 km",
+      "qualifier": "Suppression future annoncée de deux anciennes lignes aériennes entre Gatika et Lemoiz ; ne constitue pas un chantier achevé.",
+      "evidence_ids": [
+        "evidence_gas_20261110_09"
+      ]
+    },
+    "added_grief": {
+      "title": "🔈 Nuisances de sondages sous-marins et contentieux",
+      "text": "Sud Ouest rapporte en janvier 2025 une décision de la cour d'appel de Pau sur les nuisances sonores des sondages en mer, sans établir l'arrêt général du projet. La portée juridique de la décision est limitée aux mesures rapportées dans cet article.",
+      "evidence_ids": [
+        "evidence_gas_20261110_29"
+      ],
+      "source_ids": [
+        "source_0030"
+      ]
+    },
+    "additional_evidence_links": [
+      "evidence_gas_20261110_09",
+      "evidence_gas_20261110_28",
+      "evidence_gas_20261110_29",
+      "evidence_gas_20261110_36",
+      "evidence_gas_20261110_37"
+    ]
   },
   "new_files": [
     "data/content.json",
