@@ -98,11 +98,11 @@
   "milestones": [
     {
       "id": "gascogne_milestone_001",
-      "date": "2017-09-21",
-      "period_precision": "day",
+      "date": "2017-01-01",
+      "period_precision": "year",
       "status": "documented",
-      "title": "Accord régulatoire initial",
-      "details": "Budget envisagé à 1,75 Md€ par les régulateurs.",
+      "title": "Budget de référence initial (2017)",
+      "details": "La CRE rappelle dans sa communication de 2023 le budget initial de 1,75 Md€ évalué en 2017 ; la date du jour précis n'est pas fournie par cette pièce.",
       "evidence_ids": [
         "evidence_gas_20261110_03"
       ]
@@ -116,6 +116,18 @@
       "details": "Critiques sur l'étude des espèces protégées, le tracé, les habitats et la séquence ERC.",
       "evidence_ids": [
         "evidence_gas_20261110_22"
+      ]
+    },
+    {
+      "id": "gascogne_milestone_005",
+      "date": "2023-01-01",
+      "period_precision": "year",
+      "status": "documented",
+      "title": "Début du programme de travaux sur la partie française",
+      "details": "La documentation RTE rattache l'ouverture des travaux à 2023 après les autorisations, sans jour d'ouverture démontré par ces éléments.",
+      "evidence_ids": [
+        "evidence_gas_20261110_11",
+        "evidence_gas_20261110_21"
       ]
     },
     {
@@ -137,18 +149,6 @@
       "title": "Déclaration d'utilité publique",
       "details": "DUP de la partie française de la liaison, publiée au JO du 29 septembre.",
       "evidence_ids": [
-        "evidence_gas_20261110_21"
-      ]
-    },
-    {
-      "id": "gascogne_milestone_005",
-      "date": "2023-10-01",
-      "period_precision": "month",
-      "status": "documented",
-      "title": "Démarrage des travaux terrestres en France",
-      "details": "Premières opérations de construction après autorisations.",
-      "evidence_ids": [
-        "evidence_gas_20261110_11",
         "evidence_gas_20261110_21"
       ]
     },
@@ -221,11 +221,11 @@
     },
     {
       "id": "gascogne_milestone_012",
-      "date": "2026-08-03",
-      "period_precision": "day",
+      "date": "2026-08-01",
+      "period_precision": "month",
       "status": "documented",
       "title": "Première phase espagnole de pose",
-      "details": "NKT entame la campagne en Biscaye, puis 65 km posés dans cette première phase.",
+      "details": "Première campagne NKT en eaux biscaïennes menée pendant l'été 2026, avec 65 km posés ; le jour exact de début n'est pas établi dans la pièce citée.",
       "evidence_ids": [
         "evidence_gas_20261110_06"
       ]
@@ -235,10 +235,9 @@
       "date": "2026-09-21",
       "period_precision": "day",
       "status": "documented",
-      "title": "Avancement annoncé à 70 %",
-      "details": "Visite institutionnelle de Gatika; taux global d'avancement de 70 % confirmé.",
+      "title": "Visite institutionnelle de Gatika",
+      "details": "La visite du 21 septembre 2026 présente les progrès des chantiers et la première campagne NKT; le taux de 70% est annoncé dans la communication du 29 octobre, et non daté ici.",
       "evidence_ids": [
-        "evidence_gas_20261110_05",
         "evidence_gas_20261110_06",
         "evidence_gas_20261110_31"
       ]
@@ -248,9 +247,10 @@
       "date": "2026-10-29",
       "period_precision": "day",
       "status": "documented",
-      "title": "Deuxième campagne biscaïenne achevée",
-      "details": "50 km posés par Prysmian; câbles des zones biscaïennes en place, travaux ailleurs restant à réaliser.",
+      "title": "Campagne biscaïenne terminée et 70 % d'avancement global",
+      "details": "Red Eléctrica indique le 29 octobre que la deuxième campagne biscaïenne (50 km par Prysmian) est achevée, et que le projet dans son ensemble atteint 70 % d'avancement. Cela ne couvre pas la totalité des liaisons maritimes.",
       "evidence_ids": [
+        "evidence_gas_20261110_05",
         "evidence_gas_20261110_07"
       ]
     },

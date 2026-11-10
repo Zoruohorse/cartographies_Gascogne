@@ -6875,7 +6875,32 @@
       "evidence_gas_20261110_29",
       "evidence_gas_20261110_36",
       "evidence_gas_20261110_37"
-    ]
+    ],
+    "date_precision_review": {
+      "date": "2026-11-10",
+      "changes": [
+        {
+          "id": "gascogne_milestone_001",
+          "reason": "Remplace jour 2017 non prouvé par année seulement"
+        },
+        {
+          "id": "gascogne_milestone_012",
+          "reason": "Première campagne NKT datée au mois et non au jour"
+        },
+        {
+          "id": "gascogne_milestone_013",
+          "reason": "Visite du 21 septembre distincte du taux de 70% annoncé le 29 octobre"
+        },
+        {
+          "id": "gascogne_milestone_014",
+          "reason": "Positionne taux global 70% à la bonne date 2026-10-29"
+        },
+        {
+          "id": "gascogne_milestone_005",
+          "reason": "Évite d'inventer un mois de démarrage des travaux 2023"
+        }
+      ]
+    }
   },
   "new_files": [
     "data/content.json",
